@@ -200,17 +200,17 @@ https://tvnettv.space/contenido/peliculas/Ori%c3%b3n%20y%20la%20oscuridad/Ori%c3
 https://tvnettv.space/contenido/peliculas/Plaga%20zombi%20Invasi%c3%b3n%20Americana/Plaga%20zombi%20Invasi%c3%b3n%20Americana%20(2021)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1, RITOS OCULTOS
 https://tvnettv.space/contenido/peliculas/Ritos%20ocultos/Ritos%20ocultos%20(2023)%201080p%20WEB-DL%20Latino.mp4
-SINIESTRO 2
+#EXTINF:-1, SINIESTRO 2
 https://tvnettv.space/contenido/peliculas/Sinister%202/Sinister%202.lat.mp4
-ABISMO
+#EXTINF:-1, ABISMO
 https://tvnettv.space/contenido/peliculas/The%20Abyss/4806.The.Abyss.2023.1080p.WEBRip.Dual.Latino.mp4
-BIKERIDERS
+#EXTINF:-1, BIKERIDERS
 https://tvnettv.space/contenido/peliculas/The%20Bikeriders/The.Bikeriders.2023.1080p.WEBRip.lat.mp4
-CLOVERFIELD PARADOX
+#EXTINF:-1, CLOVERFIELD PARADOX
 https://tvnettv.space/contenido/peliculas/The%20Cloverfield%20Paradox/14879.The.Cloverfield.Paradox.2018.1080p.BluRay.Dual.Latino.mp4
-ULTIMO NIÑO
+#EXTINF:-1, ULTIMO NIÑO
 https://tvnettv.space/contenido/peliculas/The%20Last%20Boy%20on%20Earth/El%20%c3%9altimo%20Ni%c3%b1o%20de%20la%20Tierra%20(2023)%201080p%20WEB-DL%20Latino.mp4
-DORIAN GREY
+#EXTINF:-1, DORIAN GREY
 https://tvnettv.space/contenido/peliculas/The%20Picture%20of%20Dorian%20Gray/La%20Otra%20Cara%20de%20Dorian%20Gray%20(2023)%201080p%20WEB-DL%20Latino.mp4
-EXPERIMENTO MALDITO
+#EXTINF:-1, EXPERIMENTO MALDITO
 https://tvnettv.space/contenido/peliculas/The%20Quantum%20Devil/Experimento%20Maldito%20(2023)%201080p%20WEB-DL%20Latino.mp4
