@@ -270,4 +270,266 @@ https://tvnettv.space/contenido/peliculas/My%20Own%20Private%20Idaho/My.Own.Priv
 https://tvnettv.space/contenido/peliculas/Nadie%20es%20nadie/Nadie%20es%20nadie%20(2023)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1, ROMEO Y JULIETA
 https://tvnettv.space/contenido/peliculas/Romeo%20and%20Juliet/Romeo.and.Juliet.1996.1080p.BluRay.Dual.Latino%20(1).mp4
+#EXTINF:-1, D.B.S. C1
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/001.mp4
+#EXTINF:-1, D.B.S. C2
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/002.mp4
+#EXTINF:-1, D.B.S. C3
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/003.mp4
+#EXTINF:-1, D.B.S. C4
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/004.mp4
+#EXTINF:-1, D.B.S. C5
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/005.mp4
+#EXTINF:-1, D.B.S. C6
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/006.mp4
+#EXTINF:-1, D.B.S. C7
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/007.mp4
+#EXTINF:-1, D.B.S. C8
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/008.mp4
+#EXTINF:-1, D.B.S. C9
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/009.mp4
+#EXTINF:-1, D.B.S. C10
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/010.mp4
+#EXTINF:-1, D.B.S. C11
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/011.mp4
+#EXTINF:-1, D.B.S. C12
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/012.mp4
+#EXTINF:-1, D.B.S. C13
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/013.mp4
+#EXTINF:-1, D.B.S. C14
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/014.mp4
+#EXTINF:-1, D.B.S. C15
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/015.mp4
+#EXTINF:-1, D.B.S. C16 http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/016.mp4
+#EXTINF:-1, D.B.S. C17
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/017.mp4
+#EXTINF:-1, D.B.S. C18
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/018.mp4
+#EXTINF:-1, D.B.S. C19
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/019.mp4
+#EXTINF:-1, D.B.S. C20
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/020.mp4
+#EXTINF:-1, D.B.S. C21
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/021.mp4
+#EXTINF:-1, D.B.S. C22
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/022.mp4
+#EXTINF:-1, D.B.S. C23
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/023.mp4
+#EXTINF:-1, D.B.S. C24
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/024.mp4
+#EXTINF:-1, D.B.S. C25
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/025.mp4
+#EXTINF:-1, D.B.S. C26
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/026.mp4
+#EXTINF:-1, D.B.S. C27
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/027.mp4
+#EXTINF:-1, D.B.S. C28
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/028.mp4
+#EXTINF:-1, D.B.S. C29
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/029.mp4
+#EXTINF:-1, D.B.S. C30
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/030.mp4
+#EXTINF:-1, D.B.S. C31
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/031.mp4
+#EXTINF:-1, D.B.S. C32
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/032.mp4
+#EXTINF:-1, D.B.S. C33
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/033.mp4
+#EXTINF:-1, D.B.S. C34
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/034.mp4
+#EXTINF:-1, D.B.S. C35
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/035.mp4
+#EXTINF:-1, D.B.S. C36
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/036.mp4
+#EXTINF:-1, D.B.S. C37
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/037.mp4
+#EXTINF:-1, D.B.S. C38
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/038.mp4
+#EXTINF:-1, D.B.S. C39
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/039.mp4
+#EXTINF:-1, D.B.S. C40
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/040.mp4
+#EXTINF:-1, D.B.S. C41
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/041.mp4
+#EXTINF:-1, D.B.S. C42
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/042.mp4
+#EXTINF:-1, D.B.S. C43
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/043.mp4
+#EXTINF:-1, D.B.S. C44
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/044.mp4
+#EXTINF:-1, D.B.S. C45
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/045.mp4
+#EXTINF:-1, D.B.S. C46
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/046.mp4
+#EXTINF:-1, D.B.S. C47
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/047.mp4
+#EXTINF:-1, D.B.S. C48
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/048.mp4
+#EXTINF:-1, D.B.S. C49
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/049.mp4
+#EXTINF:-1, D.B.S. C50
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/050.mp4
+#EXTINF:-1, D.B.S. C51
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/051.mp4
+#EXTINF:-1, D.B.S. C52
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/052.mp4
+#EXTINF:-1, D.B.S. C53
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/053.mp4
+#EXTINF:-1, D.B.S. C54
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/054.mp4
+#EXTINF:-1, D.B.S. C55
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/055.mp4
+#EXTINF:-1, D.B.S. C56
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/056.mp4
+#EXTINF:-1, D.B.S. C57
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/057.mp4
+#EXTINF:-1, D.B.S. C58
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/058.mp4
+#EXTINF:-1, D.B.S. C59
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/059.mp4
+#EXTINF:-1, D.B.S. C60
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/060.mp4
+#EXTINF:-1, D.B.S. C61
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/061.mp4
+#EXTINF:-1, D.B.S. C62
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/062.mp4
+#EXTINF:-1, D.B.S. C63
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/063.mp4
+#EXTINF:-1, D.B.S. C64
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/064.mp4
+#EXTINF:-1, D.B.S. C65
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/065.mp4
+#EXTINF:-1, D.B.S. C66
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/066.mp4
+#EXTINF:-1, D.B.S. C67
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/067.mp4
+#EXTINF:-1, D.B.S. C68
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/068.mp4
+#EXTINF:-1, D.B.S. C69
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/069.mp4
+#EXTINF:-1, D.B.S. C70
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/070.mp4
+#EXTINF:-1, D.B.S. C71
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/071.mp4
+#EXTINF:-1, D.B.S. C72
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/072.mp4
+#EXTINF:-1, D.B.S. C73
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/073.mp4
+#EXTINF:-1, D.B.S. C74
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/074.mp4
+#EXTINF:-1, D.B.S. C75
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/075.mp4
+#EXTINF:-1, D.B.S. C76
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/076.mp4
+#EXTINF:-1, D.B.S. C77
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/077.mp4
+#EXTINF:-1, D.B.S. C78
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/078.mp4
+#EXTINF:-1, D.B.S. C79
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/079.mp4
+#EXTINF:-1, D.B.S. C80
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/080.mp4
+#EXTINF:-1, D.B.S. C81
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/081.mp4
+#EXTINF:-1, D.B.S. C82
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/082.mp4
+#EXTINF:-1, D.B.S. C83
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/083.mp4
+#EXTINF:-1, D.B.S. C84
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/084.mp4
+#EXTINF:-1, D.B.S. C85
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/085.mp4
+#EXTINF:-1, D.B.S. C86
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/086.mp4
+#EXTINF:-1, D.B.S. C87
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/087.mp4
+#EXTINF:-1, D.B.S. C88
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/088.mp4
+#EXTINF:-1, D.B.S. C89
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/089.mp4
+#EXTINF:-1, D.B.S. C90
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/090.mp4
+#EXTINF:-1, D.B.S. C91
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/091.mp4
+#EXTINF:-1, D.B.S. C92
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/092.mp4
+#EXTINF:-1, D.B.S. C93
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/093.mp4
+#EXTINF:-1, D.B.S. C94
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/094.mp4
+#EXTINF:-1, D.B.S. C95
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/095.mp4
+#EXTINF:-1, D.B.S. C96
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/096.mp4
+#EXTINF:-1, D.B.S. C97
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/097.mp4
+#EXTINF:-1, D.B.S. C98
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/098.mp4
+#EXTINF:-1, D.B.S. C99
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/099.mp4
+#EXTINF:-1, D.B.S. C100
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/100.mp4
+#EXTINF:-1, D.B.S. C101
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/101.mp4
+#EXTINF:-1, D.B.S. C102
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/102.mp4
+#EXTINF:-1, D.B.S. C103
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/103.mp4
+#EXTINF:-1, D.B.S. C104
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/104.mp4
+#EXTINF:-1, D.B.S. C105
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/105.mp4
+#EXTINF:-1, D.B.S. C106
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/106.mp4
+#EXTINF:-1, D.B.S. C107
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/107.mp4
+#EXTINF:-1, D.B.S. C108
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/108.mp4
+#EXTINF:-1, D.B.S. C109
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/109.mp4
+#EXTINF:-1, D.B.S. C110
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/110.mp4
+#EXTINF:-1, D.B.S. C111
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/111.mp4
+#EXTINF:-1, D.B.S. C112
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/112.mp4
+#EXTINF:-1, D.B.S. C113
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/113.mp4
+#EXTINF:-1, D.B.S. C114
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/114.mp4
+#EXTINF:-1, D.B.S. C115
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/115.mp4
+#EXTINF:-1, D.B.S. C116
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/116.mp4
+#EXTINF:-1, D.B.S. C117
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/117.mp4
+#EXTINF:-1, D.B.S. C118
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/118.mp4
+#EXTINF:-1, D.B.S. C119
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/119.mp4
+#EXTINF:-1, D.B.S. C120
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/120.mp4
+#EXTINF:-1, D.B.S. C121
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/121.mp4
+#EXTINF:-1, D.B.S. C122
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/122.mp4
+#EXTINF:-1, D.B.S. C123
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/123.mp4
+#EXTINF:-1, D.B.S. C124
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/124.mp4
+#EXTINF:-1, D.B.S. C125
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/125.mp4
+#EXTINF:-1, D.B.S. C126
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/126.mp4
+#EXTINF:-1, D.B.S. C127
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/127.mp4
+#EXTINF:-1, D.B.S. C128
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/128.mp4
+#EXTINF:-1, D.B.S. C129
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/129.mp4
+#EXTINF:-1, D.B.S. C130
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/130.mp4
+#EXTINF:-1, D.B.S. C131
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Super/131.mp4
+
 
