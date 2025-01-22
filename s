@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, FEOS
-https://tvnettv.space/contenido/peliculas/Uglies/Uglies.2024.1080p.WEBRip.Dual.Latino.mp4
 #EXTINF:-1, HIPSTER EN ESPAÑA
 https://tvnettv.space/contenido/peliculas/Un%20Hipster%20en%20la%20Espana%20Vacia/Un%20Hipster%20en%20la%20Espa%c3%b1a%20Vac%c3%ada%20(2024)%20WEB-DL%20LIGERO%201080p%20.mp4
 #EXTINF:-1, HOMBRE SIN MEMORIA
