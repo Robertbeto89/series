@@ -3,56 +3,256 @@
 
 #EXTINF:-1, SEX Y SEN
 https://tvnettv.space/contenido/peliculas/Sex%20And%20Zen%20II/6080.Sex.And.Zen.II.1996.1080p.BluRay.mp4
+#EXTINF:-1, Dancing Queens
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9d1f9d42-da42-4735-8ff9-0158dedba326.mp4
+#EXTINF:-1, Cuentos al caer la noche
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c315b0d2-afc5-408a-a9af-672c9e5f9055.mp4
+#EXTINF:-1, Diarios de intercambio
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/615fb8a3-7d81-44ee-9144-a5bfa10cbbc7.mp4
+#EXTINF:-1, [REC]⁴: Apocalipsis
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94017d96-e578-4196-b6c3-be1449c2d901.mkv
+#EXTINF:-1, [REC]³: Génesis
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/02f2e6d7-29d5-4215-9196-8e1f6cb8a589.mkv
+#EXTINF:-1, Mañana te cuento 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f1aa8e5c-51d1-4fb7-9b52-87161b1de001.mp4
+#EXTINF:-1, No se lo digas a nadie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/70a79206-0a12-47cc-99e0-2788b0dfeecc.mp4
+#EXTINF:-1, Terroríficamente muertos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c9924af-e78b-4781-a682-c2ad46616fdb.mp4
+#EXTINF:-1, El ejército de las tinieblas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b1a1491c-39da-41ee-b0e2-f626d164f797.mp4
+#EXTINF:-1, Viuda negra
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f0146b6b-ec17-4832-87a5-bba297244d5c.mp4
+#EXTINF:-1, La madre de la novia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/26c5eaea-415c-4ca4-b8a6-f36a5f540151.mp4
+#EXTINF:-1, Noche de Bodas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3494d1aa-c72f-43ea-ac24-950569032fc7.mp4
+#EXTINF:-1, Finding Love in Sisters
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8f62fc91-2b6f-4434-8df0-53ecf882deeb.mp4
+#EXTINF:-1, De Caperucita a loba
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f0d9a660-c40b-478d-b034-bbf8b6db097b.mp4
+#EXTINF:-1, Apaixonada
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2dca4892-464f-46a3-85c7-4a30ac5a8ac8.mp4
+#EXTINF:-1, Vampiras: The Brides
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/478282e2-93a3-480d-a359-924af38909f1.mp4
+#EXTINF:-1, Sin tiempo para espiar: Una peli de Una casa de locos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6457e8f0-82f6-4830-83c2-762a76406a72.mp4
+#EXTINF:-1, La gran seducción (A)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5de49b7e-9fe4-4484-b05c-a85d937c257e.mp4
+#EXTINF:-1, Duplex
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/00d11b15-3316-4639-8113-6203a685e5a9.mp4
+#EXTINF:-1, El cuartito
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b933cd2-f464-4a83-b5e1-53f76d2784c4.mp4
+#EXTINF:-1, El que busca, encuentra
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7cdb2aba-9038-475c-b35f-ee9de792013d.mp4
+#EXTINF:-1, Dry Martina
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8ba40f0b-1081-46ad-83a0-f16f85435da3.mp4
+#EXTINF:-1, Juntos y revueltos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1416d30d-5c56-4735-b2cc-eda9cf0abafe.mp4
+#EXTINF:-1, Escuela nocturna
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ab471c0a-4e17-4bdd-86f7-af042a3f9a1f.mp4
+#EXTINF:-1, El ataque de las mujeres araña
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/28b74498-ceaf-4d79-bb22-0e0e69243576.mp4
+#EXTINF:-1, A Little Bit of Heaven
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c113fde7-7076-4f25-864d-737698cdd1b7.mp4
+#EXTINF:-1, A La Mala
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/526ee80a-ebad-464a-9cf2-e2f3b4d37cbf.mkv
+#EXTINF:-1, A Ti Te Quería Encontrar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/35beda09-c5a9-4cda-860e-68e5d2642fbd.mkv
+#EXTINF:-1, Una noche con mi exsuegro
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/23e4f490-3227-47b8-9409-efbd34383114.mkv
+#EXTINF:-1, Chulo por accidente
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e882103f-7473-414d-b1a5-41af3c23219d.mkv
+#EXTINF:-1, Al son que me toquen bailo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ac52d956-7073-4a95-9834-b0de91c9cfcc.mkv
+#EXTINF:-1, Amalia, la secretaria
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9296fa99-24f1-4a89-b57f-edbabe4b9df7.mkv
+#EXTINF:-1, Amigas con solera
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b14eb4d-fd7f-4d2d-9cb8-4a3565d0a21a.mkv
+#EXTINF:-1, Amor Viajero
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b577e2c7-08d7-43b6-ba87-aeedea1681de.mkv
+#EXTINF:-1, Eres mi pasión
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1d84f4b8-d081-48e7-9fbb-93dfdb2f2fc2.mp4
+#EXTINF:-1, Amor urgente
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a0f20280-feb1-4b0f-a0ad-c4d4951a6c13.mkv
+#EXTINF:-1, Amor garantizado
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/08cb3b3a-1def-4ded-b747-c8a9c865fa89.mp4
+#EXTINF:-1, Amores Modernos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ef5817cc-8dcd-406c-bc8e-ed37938a3303.mkv
+#EXTINF:-1, Bandidas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d4282fb8-3baa-4a30-a9c7-ea0035127390.mkv
+#EXTINF:-1, Bedtime Stories
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8df0dc6e-b442-48cb-a172-9b7235f97955.mkv
+#EXTINF:-1, Chalet Girl
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b805a888-c494-4d2b-953c-6aa6af8fbc81.mkv
+#EXTINF:-1, Drácula, un muerto muy contento y feliz
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9d46d309-0710-4fc4-8866-058e8e6a11dd.mkv
+#EXTINF:-1, Amor sin cita previa
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/19bda732-aa98-4bff-91fc-e54de7f26532.mp4
+#EXTINF:-1, Blonde Ambition
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe4e5a12-8d04-4c2d-bc94-29594ef5e890.mp4
+#EXTINF:-1, Busco novio para mi mujer
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8c8aba29-6eee-49fe-b560-9bc412231c96.mp4
+#EXTINF:-1, Cooties
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fac7f1d6-a65c-4d75-9bcb-84163530ab91.mp4
+#EXTINF:-1, Cuerpos especiales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9c6b0bdc-8c1b-48f6-a208-daf59713ba2a.mp4
+#EXTINF:-1, Niñera a la fuerza
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/808f8867-9932-4999-b195-3056732255ed.mp4
+#EXTINF:-1, Encuentros al Azar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5aa97f8f-44e9-4480-acf6-e091ed72d4fb.mp4
+#EXTINF:-1, Amar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bf53b8d8-9f90-4ece-a1eb-a2b3e73fd3e7.mkv
+#EXTINF:-1, Fallen
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/aa39aa4a-19f1-486e-aba3-7ce487177c9c.mp4
+#EXTINF:-1, Ladies Night
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f68339fa-c239-4f53-8d79-8a4ff62b804e.mp4
+#EXTINF:-1, Le mannequin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ee0c67d0-94f6-4d27-8539-4e61e4ff2b6c.mp4
+#EXTINF:-1, Locos de Amor 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c328ab3-8fd7-45d7-9f11-d0bc478b04d3.mp4
+#EXTINF:-1, Los Oriyinales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4588049b-69cd-4dca-8e8b-274c26083e09.mp4
+#EXTINF:-1, A por todas: Enfrentamiento mundial
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/17e624b1-8d7b-421f-adab-29c48f441eed.mp4
+#EXTINF:-1, Mamma Mia! Una y otra vez
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6ad20b8d-a95c-469d-a329-de7b99d596fa.mp4
+#EXTINF:-1, La casa de las dagas voladoras
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/15a527d3-00b9-472b-9671-d1cd11d67ecb.mp4
+#EXTINF:-1, Me estás matando, Susana
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b149bdc-5dfe-4e1c-b84a-5a40bacd7abe.mp4
+#EXTINF:-1, A Little Bit of Heaven
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4743d208-3180-4b02-9d2d-6e5c826b8163.mp4
+#EXTINF:-1, Miamor perdido
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3fd8f2ef-61bc-4446-aff8-6a5a96077d3d.mp4
+#EXTINF:-1, Serendipity
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/620904d3-200a-40ab-8c75-d8b8ad318988.mp4
+#EXTINF:-1, Attraction
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/42cdbda4-7472-46d8-b735-7928ac7ef02d.mkv
+#EXTINF:-1, Serena
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ad221831-cb48-493a-b3d1-f9798ecf1914.mp4
+#EXTINF:-1, Cambio de princesa
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c9c7801d-6652-467b-b194-1b3a17f5c135.mkv
+#EXTINF:-1, Te pido un taxi
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8b412131-0343-4fd1-8bf3-f3fd3ad15d8b.mp4
+#EXTINF:-1, Tengo ganas de ti
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/648d23c8-c57b-4cbc-a21e-f090340b0839.mp4
+#EXTINF:-1, The Boy Downstairs
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/11b59352-93a8-49e3-aa5a-ab16ae1a18e5.mp4
+#EXTINF:-1, Langosta
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7da824b4-07b1-4e6d-a470-06e134dd6cfa.mp4
+#EXTINF:-1, The Lovers
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a92f9224-b252-4f3c-82f0-7c95776cf555.mp4
+#EXTINF:-1, Burlesque
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8adc2e72-90f8-49a1-b97f-6f8a2cc239ce.mp4
+#EXTINF:-1, The Model
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe7d1fbf-26a1-40bd-8028-10c5686837c5.mp4
+#EXTINF:-1, Un romance de cine
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8b9ef9d0-657e-443e-870e-633c39ad1597.mp4
+#EXTINF:-1, Dirty Dancing
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f84ad66c-a167-496d-a9f3-13853aa00eec.mp4
+#EXTINF:-1, El Sabor Del Verano
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/14dafad2-fdf4-4b79-8cd2-306978571f74.mp4
+#EXTINF:-1, Cindy La Regia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a75a2f26-bdea-483d-b81c-ff1480bf6b89.mp4
+#EXTINF:-1, Siete hermanas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b74f374e-c3f1-46b5-9b4f-e57f6644b67b.mp4
+#EXTINF:-1, Vampariah
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1c781ddd-5128-4b1c-a454-66bd6882695b.mp4
+#EXTINF:-1, Wendy
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a6294770-ffe7-499f-b081-c155318f5f4d.mp4
+#EXTINF:-1, Las Brujas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8ab753c9-6ef6-42b7-a45b-deb32038aa49.mp4
+#EXTINF:-1, The Witches
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/279c6f31-5136-43eb-9e93-96455db74387.mp4
+#EXTINF:-1, Abyss
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/32047a3c-b5d2-4e04-9d90-47eb3b353a54.mp4
+#EXTINF:-1, Estasis
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/abca99be-e9b8-4c06-8aa0-1da6ffd11ccd.mp4
+#EXTINF:-1, Amor de gata
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bff583c9-2a53-44b2-9263-112cbb76b3d5.mkv
+#EXTINF:-1, La vida oscura del Gran Duque de Córcega
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0db4af77-de88-4f55-ab27-e2a2271ab777.mp4
+#EXTINF:-1, Under the Skin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8dc6906a-047c-42c5-92a0-09734f0b2505.mp4
+#EXTINF:-1, Cosmic Sin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0c9c212a-a11f-448a-a8f5-1df65ccc0c46.mp4
+#EXTINF:-1, My Favorite Girlfriend
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/937132ed-53df-4ca2-ad8c-b8a6be6fb99b.mp4
+#EXTINF:-1, Esposa De Alquiler
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f7f26caf-881f-493e-a33d-23bcffe02e28.mp4
+#EXTINF:-1, Impúdica
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/44d488d4-8441-4396-a279-b13e284eb4bc.mp4
+#EXTINF:-1, 1 Sexy Criada   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0a14f385-b06b-4c0e-8091-4a9dd5527603.mp4
+#EXTINF:-1, 1 Súper Salchicha   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7b7ba69c-d9a1-46b3-9038-af26b78b8b45.mp4
+#EXTINF:-1, 2 Hermanas Vs 1 Masajista   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7bbccdbd-f345-4b4f-9573-30a2668a6b84.mp4
+#EXTINF:-1, 69 Con Athena   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3902942d-817e-48d9-bdf7-f8e926b21733.mp4
+#EXTINF:-1, Casting  Latina XXX   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1db04fdf-8cb0-4ab8-8218-9ed0517e04c5.mp4
+#EXTINF:-1, Consejera sexual   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e74b0f0e-81e8-4c0c-9705-bf2aafc2c9b8.mp4
+#EXTINF:-1, Delicia Húmeda   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0bf1f84b-18d2-4eb3-9013-7808bdf99cb0.mp4
+#EXTINF:-1, Ella Juega En Cuatro   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/980ec169-1fdf-4d22-a489-2ad139a7c22f.mp4
+#EXTINF:-1, Escapada Sexual   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1b9e60b5-a81a-4c2e-9608-b2713f27d640.mp4
+#EXTINF:-1, Frotandose en la ducha   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/92a95460-8f9c-4592-a6b4-f581f24ebcd9.mp4
+#EXTINF:-1, Interracial En El Trabajo   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a7e9d842-5647-453d-b0b3-d7f357e99fe2.mp4
+#EXTINF:-1, Llévame a un motel   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6b8c5050-d5be-40b7-a0e6-ea15d85bdbfe.mp4
+#EXTINF:-1, Mamada hasta el fondo   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2908d8cd-4d36-42d9-99ae-06b416fdbc7a.mp4
+#EXTINF:-1, Mamadas Secretas   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e960a5b4-f0a8-4cf3-bdd6-47d81c14fdf4.mp4
+#EXTINF:-1, Novias chanchitas   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b4bf57d3-3a5d-4309-9a2a-fea1585f3f36.mp4
+#EXTINF:-1, Orgasmos Con Mi Amiga   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ab75b520-b790-49b1-b707-35cb4f6c56e2.mp4
+#EXTINF:-1, Princess Jas Hermosa   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fb346478-b6f3-4e3f-9fc3-e66906d526b8.mp4
+#EXTINF:-1, Putitas a la ducha   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4439b40c-a18f-4c52-b0e3-bc8b7c3df4bc.mp4
+#EXTINF:-1, Sexo en la ducha   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1efcd22a-f1e2-428f-ba7c-83ad2b526953.mp4
+#EXTINF:-1, Show lesbi y privado   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5cc02933-f097-467f-9453-63925aa629d6.mp4
+#EXTINF:-1, Siempre Final Feliz   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7ac3b56-e327-412f-a0cc-b721bf6efdf9.mp4
+#EXTINF:-1, Sloan vs Evelin   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1c71271a-bb6b-4462-a6e6-bd48f5a63740.mp4
+#EXTINF:-1, Transmisión De Sexo   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4161cf43-5dd4-44b4-88f4-2c8189e5f7f4.mp4
+#EXTINF:-1, Trato de hermanastros   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/293de212-905f-420a-ae0a-5787fb6dbe0e.mp4
+#EXTINF:-1, Trío De Lenguas   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0f6e3ca3-1fad-4c5c-9feb-7ab8597c1464.mp4
+#EXTINF:-1, Un baño pegajoso   Hotgo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/05201db5-6c02-4453-b60c-0d797852331d.mp4
 #EXTINF:-1, TIBURONES EN PARIS
 https://tvnettv.space/contenido/peliculas/Under%20Paris/Under.Paris.2024.1080p.WEBRip.lat.mp4
 #EXTINF:-1, SOMBRAS SINIESTRAS
 https://tvnettv.space/contenido/peliculas/Sombras%20siniestras/Sombras%20siniestras%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, LADRON ROMANTICO
-https://tvnettv.space/contenido/peliculas/Un%20ladron%20romantico/Un%20ladron%20romantico%20cast.mp4
-#EXTINF:-1, PRIMERA PLANA
-https://tvnettv.space/contenido/peliculas/Spotlight/8200.Spotlight.2015.1080p.BluRay.lat.mp4
 #EXTINF:-1, SQUALER
 https://tvnettv.space/contenido/peliculas/Squealer/Squealer%20(2023)%201080p%20WEB-Rip%20Latino.mp4
 #EXTINF:-1, VIAJE NOCTURNO
 https://tvnettv.space/contenido/peliculas/Un%20viaje%20hacia%20la%20noche/Un%20viaje%20hacia%20la%20noche%20(2021)%20WEB-DL%201080p%20Latino.mp4
 #EXTINF:-1, STOPMOTION
 https://tvnettv.space/contenido/peliculas/Stopmotion/Stopmotion.2023.1080p.WEBRip.1400MB.mp4
-#EXTINF:-1, VIDEODROME
-https://tvnettv.space/contenido/peliculas/Videodrome/Videodrome.1983.1080p.BluRay.lat.mp4
 #EXTINF:-1, VISITANTE DE INVIERNO
 https://tvnettv.space/contenido/peliculas/Visitante%20de%20invierno/Visitante.de.invierno.2008.WEB-DL.mp4
-#EXTINF:-1, VIVIENDO MI PELI
-https://tvnettv.space/contenido/peliculas/Viviendo%20mi%20pelicula/Viviendo%20mi%20pelicula%20(2024)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, OLAS
-https://tvnettv.space/contenido/peliculas/Waves/17937.Waves.2019.WEB-DL.1080p..mp4
 #EXTINF:-1, ANTES DE CONOCERNOS
 https://tvnettv.space/contenido/peliculas/Which%20Brings%20Me%20to%20You/Antes%20De%20Conocernos%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BLOB
-https://tvnettv.space/contenido/peliculas/The%20Blob/The.Blob.1988.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1, PARQUE WICKER
-https://tvnettv.space/contenido/peliculas/Wicker%20Park/Wicker.Park.2004.1080p.WEBRip.LAT.mp4
-#EXTINF:-1, WONDERLAND
-https://tvnettv.space/contenido/peliculas/Wonderland/Wonderland.2024.1080p.WEBRip.Latino.mp4
-#EXTINF:-1, DEAD POOL 
-https://tvnettv.space/contenido/peliculas/The%20Dead%20Pool/The.Dead.Pool.1988.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1, SIN CITY 1 
-http://fina.dyndns.tv/Peliculas/Sin%20City.mkv
-#EXTINF:-1, SIN CITY 2
-http://fina.dyndns.tv/Peliculas/Sin%20City%20a%20dame%20to%20kill%20for.mkv
-#EXTINF:-1, LA NIEBLA
-https://tvnettv.space/contenido/peliculas/The%20Fog/The.Fog.2005.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1, ZONA DE INTERES
-https://tvnettv.space/contenido/peliculas/Zona%20de%20inter%c3%a9s/Zona%20de%20inter%c3%a9s%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, SENTIDO DE LA VIDA
-http://fina.dyndns.tv/Peliculas/Monty%20Python/El%20Sentido%20de%20la%20vida.mkv
 #EXTINF:-1, EL FAVOR
 https://tvnettv.space/contenido/peliculas/el%20favor/elf4v0r.2023.1080p.Cast.mp4
 #EXTINF:-1, VETERANO
 https://tvnettv.space/contenido/peliculas/The%20Last%20Rifleman/El%20%c3%baltimo%20veterano%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, VIDA DE BRYAN
-http://fina.dyndns.tv/Peliculas/Monty%20Python/La%20vida%20de%20Brian.mkv
-#EXTINF:-1, CROOD 2
-http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
 #EXTINF:-1, EL GRAN CAMBIO
 https://tvnettv.space/contenido/peliculas/The%20Shift%20El%20gran%20cambio/The%20Shift%20El%20gran%20cambio%20(2023)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1, EXTRANOS
@@ -63,14 +263,10 @@ https://tvnettv.space/contenido/peliculas/The%20Sunset%20Limited/The.Sunset.Limi
 https://tvnettv.space/contenido/peliculas/The%20Syndrome/The.Syndrome.2021.1080p.WEBRip.Dual.Latino.mp4
 #EXTINF:-1, ANIME PRINCESA
 https://tvnettv.space/contenido/peliculas/The%20Tale%20of%20the%20Princess%20Kaguya/The.Tale.of.the.Princess.Kaguya.2013.1080p.BluRay.lat.mp4
-#EXTINF:-1, SOUL OF REDEM
-https://tvnettv.space/contenido/peliculas/A%20Soul%20to%20Redeem/A.Soul.to.Redeem.2017.1080p.WEBRip.Dual.Latino.mp4
 #EXTINF:-1, NAHIR
 https://tvnettv.space/contenido/peliculas/Nahir/Nahir%20(2024)%20WEB-DL%20%201080p%20Latino.mp4
 #EXTINF:-1, AMOR EN VENTA
 https://tvnettv.space/contenido/peliculas/Amor%20en%20Venta/Amor%20en%20Venta%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, FRENCH KISS
-https://tvnettv.space/contenido/peliculas/French%20Kiss/French.Kiss.1995.1080p.BluRay.lat.mp4
 #EXTINF:-1, ANNIE
 https://tvnettv.space/contenido/peliculas/Annie%20Hall/Annie.Hall.1977.1080p.BluRay.lat.mp4
 #EXTINF:-1, GODZILLA
@@ -127,306 +323,14 @@ https://tvnettv.space/contenido/peliculas/Medidias%20extremas/Medidias%20extrema
 https://tvnettv.space/contenido/peliculas/Midnight%20Peepshow/Midnight.Peepshow.2022.1080p.WEBRip.mp4
 #EXTINF:-1, MIENTRAS DUERMES
 https://tvnettv.space/contenido/peliculas/Mientras%20Duermes/Mientras%20Duermes%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, PRESIDENTE
-https://tvnettv.space/contenido/peliculas/Juanpis%20Gonz%c3%a1lez%20El%20presidente%20de%20la%20gente/Juanpis%20Gonz%c3%a1lez%20El%20presidente%20de%20la%20gente%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
 #EXTINF:-1, PACIENTE
 https://tvnettv.space/contenido/peliculas/Klienten/El%20%c3%baltimo%20paciente%20(2022)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1, LAST NIGHT
 https://tvnettv.space/contenido/peliculas/La%20%c3%9altima%20Noche%20en%20Pacerville/La%20%c3%9altima%20Noche%20en%20Pacerville%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, RESUELTO
-https://tvnettv.space/contenido/peliculas/Resuelto/Resuelto%20(2024)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1, IDAHO
 https://tvnettv.space/contenido/peliculas/My%20Own%20Private%20Idaho/My.Own.Private.Idaho.1991.1080p.BluRay.lat.mp4
-#EXTINF:-1, DRAGON BAL
-https://tvnettv.space/contenido/peliculas/DRAGON%20BALL%20Z-El%20plan%20para%20erradicar%20a%20los%20Super%20Saiyans.polo/DRAGON%20BALL%20Z-El%20plan%20para%20erradicar%20a%20los%20Super%20Saiyans.polo.mp4
 #EXTINF:-1, ROMEO Y JULIETA
 https://tvnettv.space/contenido/peliculas/Romeo%20and%20Juliet/Romeo.and.Juliet.1996.1080p.BluRay.Dual.Latino%20(1).mp4
-#EXTINF:-1, AGENTES T1E1
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E01%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, AGENTES T1E2
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E02%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, AGENTES T1E3
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E03%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, AGENTES T1E4
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E04%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, AGENTES T1E5
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E05%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, AGENTES T1E6
-https://tvnettv.space/contenido/series/Agentes%20del%20misterio/LAT/Agentes%20del%20misterio%20S01E06%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, BANDIDOS E1
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E01%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E2
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E02%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E3
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E03%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E4
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E04%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E5
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E05%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E6
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E06%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BANDIDOS E7
-https://tvnettv.space/contenido/series/Bandidos/Bandidos%20S01E07%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, XMEN E1
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E01%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E2
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E02%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E3
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E03%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E4
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men.97.S01E04.720p.WEBRip.Dual.Latino%20(1).mp4
-#EXTINF:-1, XMEN E5
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E05%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E6
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men.97.S01E06.720p.WEBRip.lat.mp4
-#EXTINF:-1, XMEN E7
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%2097%20S01E07%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E8
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E08%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E9
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E09%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, XMEN E10
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E10%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, DOC. 11S E1
-http://pilarika.no-ip.org/Documentales/11-S/1_-_11-S,_la_guerra_m%c3%a1s_larga.mp4
-#EXTINF:-1, DOC. 11S E2
-http://pilarika.no-ip.org/Documentales/11-S/2_-_11-S,_la_historia.mp4
-#EXTINF:-1, DOC. 11S E3
-http://pilarika.no-ip.org/Documentales/11-S/3_-_11-S,_los_bomberos_de_la_zona_cero.mp4
-#EXTINF:-1, DOC. 11S E4
-http://pilarika.no-ip.org/Documentales/11-S/4_-_Un_avi%c3%b3n_contra_el_Pent%c3%a1gono.mp4
-#EXTINF:-1, ARMAS E1
-http://pilarika.no-ip.org/Documentales/A_las_armas/01_-_Armas_de_largo_alcance.mp4
-#EXTINF:-1, ARMAS E2
-http://pilarika.no-ip.org/Documentales/A_las_armas/02_-_Ataque_desde_el_aire.mp4
-#EXTINF:-1, ARMAS E3
-http://pilarika.no-ip.org/Documentales/A_las_armas/03_-_Combate_cuerpo_a_cuerpo.mp4
-#EXTINF:-1, ARMAS E4
-http://pilarika.no-ip.org/Documentales/A_las_armas/04_-_Armas_para_todos.mp4
-#EXTINF:-1, ARMAS E5
-http://pilarika.no-ip.org/Documentales/A_las_armas/05_-_M%c3%a1s_r%c3%a1pido_que_el_enemigo.mp4
-#EXTINF:-1, ARMAS E6
-http://pilarika.no-ip.org/Documentales/A_las_armas/06_-_El_poder_de_la_destrucci%c3%b3n.mp4
-#EXTINF:-1, ARMAS E7
-http://pilarika.no-ip.org/Documentales/A_las_armas/07_-_Guerra_en_el_mar.mp4
-#EXTINF:-1, ARMAS E8
-http://pilarika.no-ip.org/Documentales/A_las_armas/08_-_La_emboscada.mp4
-#EXTINF:-1, ARMAS E9
-http://pilarika.no-ip.org/Documentales/A_las_armas/09_-_Invenciones_letales.mp4
-#EXTINF:-1, ARMAS E10
-http://pilarika.no-ip.org/Documentales/A_las_armas/10_-_Civiles_en_el_campo_de_batalla.mp4
-#EXTINF:-1, ROMA E1
-http://pilarika.no-ip.org/Documentales/Antigua_Roma,_la_grandeza_y_caida_del_Imperio_Romano/01_-_Neron.mp4
-#EXTINF:-1, ROMA E2
-http://pilarika.no-ip.org/Documentales/Antigua_Roma,_la_grandeza_y_caida_del_Imperio_Romano/02_-_Cesar.mp4
-#EXTINF:-1, ROMA E3
-http://pilarika.no-ip.org/Documentales/Antigua_Roma,_la_grandeza_y_caida_del_Imperio_Romano/03_-_Revolucion.mp4
-#EXTINF:-1, ROMA E4
-http://pilarika.no-ip.org/Documentales/Antigua_Roma,_la_grandeza_y_caida_del_Imperio_Romano/04_-_Rebelion.mp4
-#EXTINF:-1, ROMA E5
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T1-Cal%c3%adgula,_el_Emperador_loco/1_-_El_heredero_leg%c3%adtimo.mp4
-#EXTINF:-1, ROMA E6
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T1-Cal%c3%adgula,_el_Emperador_loco/2_-_Nuevos_tiempos.mp4
-#EXTINF:-1, ROMA E7
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T1-Cal%c3%adgula,_el_Emperador_loco/3_-_En_busca_de_un_heredero.mp4
-#EXTINF:-1, ROMA E8
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T1-Cal%c3%adgula,_el_Emperador_loco/4_-_Camino_a_la_locura.mp4
-#EXTINF:-1, ROMA E9
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T2-Julio_Cesar,_el_se%c3%b1or_de_Roma/1_-_El_Triunvirato.mp4
-#EXTINF:-1, ROMA E10
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T2-Julio_Cesar,_el_se%c3%b1or_de_Roma/2_-_El_gran_conquistador.mp4
-#EXTINF:-1, ROMA E11
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T2-Julio_Cesar,_el_se%c3%b1or_de_Roma/3_-_Cruzar_el_Rubicon.mp4
-#EXTINF:-1, ROMA E12
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T2-Julio_Cesar,_el_se%c3%b1or_de_Roma/4_-_La_reina_del_Nilo.mp4
-#EXTINF:-1, ROMA E13
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/1_-_Nacidos_para_gobernar.mp4
-#EXTINF:-1, ROMA E14
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/2_-_La_forja_de_un_Emperador.mp4
-#EXTINF:-1, ROMA E15
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/3_-_Enemigo_del_Senado.mp4
-#EXTINF:-1, ROMA E16
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/4_-_Arde_Roma.mp4
-#EXTINF:-1, ROMA E17
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/5_-_La_lucha_por_la_gloria.mp4
-#EXTINF:-1, ROMA E18
-http://pilarika.no-ip.org/Documentales/El_Imperio_Romano/T3-C%c3%b3modo,_el_reinado_de_la_sangre/6_-_14_d%c3%adas_de_sangre.mp4
-#EXTINF:-1, WW1 E1
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/1._-_Furia.mp4
-#EXTINF:-1, WW1 E2
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/2._-_Miedo.mp4
-#EXTINF:-1, WW1 E3
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/3._-_Infierno.mp4
-#EXTINF:-1, WW1 E4
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/4_-_Ira.mp4
-#EXTINF:-1, WW1 E5
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/5_-_Rendirse,%20jamas.mp4
-#EXTINF:-1, WW1 E6
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/6_-_Por%20fin,%20la%20paz.mp4
-#EXTINF:-1, WW1 E7
-http://pilarika.no-ip.org/Documentales/Apocalipsis,_la_Primera_Guerra_Mundial/7_-_Liberacion.mp4
-#EXTINF:-1, WW2 E1
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/1_-_La_agresion.mp4
-#EXTINF:-1, WW2 E2
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/2_-_La_Derrota_Aplastante.mp4
-#EXTINF:-1, WW2 E3
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/3_-_El_estallido.mp4
-#EXTINF:-1, WW2 E4
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/4_-_El_punto_de_inflexion.mp4
-#EXTINF:-1, WW2 E5
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/5_-_Los_grandes_aterrizajes.mp4
-#EXTINF:-1, WW2 E6
-http://pilarika.no-ip.org/Documentales/Apocalipsis_-_La_Segunda_Guerra_Mundial/6_-_El_fin_de_la_pesadilla.mp4
-#EXTINF:-1, ASES DEL AIRE 1
-http://pilarika.no-ip.org/Documentales/Ases_del_aire/1_-_Ases_del_aire.mp4
-#EXTINF:-1, ASES DEL AIRE 2
-http://pilarika.no-ip.org/Documentales/Ases_del_aire/2_-_Ases_del_aire.mp4
-#EXTINF:-1, SEXO E1
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/01_-_Sexo_y_poder.mp4
-#EXTINF:-1, SEXO E2
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/02_-_Sexo_apocalipsis.mp4
-#EXTINF:-1, SEXO E3
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/03_-_Sexo_en_venta_.mp4
-#EXTINF:-1, SEXO E4
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/04_-_Por_culpa_del_sexo.mp4
-#EXTINF:-1, SEXO E5
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/05_-_Super_heroes_del_sexo.mp4
-#EXTINF:-1, SEXO E6
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/06_-_Los_pioneros_del_sexo_en_Estados_Unidos.mp4
-#EXTINF:-1, SEXO E7
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/07_-_Rebeldes_del_sexo.mp4
-#EXTINF:-1, SEXO E8
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/08_-_Sexo_experimento.mp4
-#EXTINF:-1, SEXO E9
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/09_-_Sexo_y_guerra.mp4
-#EXTINF:-1, SEXO E10
-http://pilarika.no-ip.org/Documentales/Asi_nos_cambio_el_sexo/10_-_Sexo_extremo.mp4
-#EXTINF:-1, CARLOMAGNO E1
-http://pilarika.no-ip.org/Documentales/Carlomagno/Cap%c3%adtulo_1.mp4
-#EXTINF:-1, CARLOMAGNO E2
-http://pilarika.no-ip.org/Documentales/Carlomagno/Cap%c3%adtulo_2.mp4
-#EXTINF:-1, CARLOMAGNO E3
-http://pilarika.no-ip.org/Documentales/Carlomagno/Cap%c3%adtulo_3.mp4
-#EXTINF:-1, EL DIA D1
-http://pilarika.no-ip.org/Documentales/Dia_D,_los_archivos_perdidos/01_Dia_D,_los_archivos_perdidos.mp4 
-#EXTINF:-1, EL DIA D2
-http://pilarika.no-ip.org/Documentales/Dia_D,_los_archivos_perdidos/02_Dia_D,_los_archivos_perdidos.mp4
-#EXTINF:-1, EL DIA D3
-http://pilarika.no-ip.org/Documentales/El_Dia_D,_la_historia_de_los_soldados/Episodio_-_1.mp4
-#EXTINF:-1, EL DIA D4
-http://pilarika.no-ip.org/Documentales/El_Dia_D,_la_historia_de_los_soldados/Episodio_-_2.mp4
-#EXTINF:-1, EL DIA D5
-http://pilarika.no-ip.org/Documentales/El_Dia_D,_la_historia_de_los_soldados/Episodio_-_3.mp4
-#EXTINF:-1, EL DIA D6
-http://pilarika.no-ip.org/Documentales/El_Dia_D,_la_historia_de_los_soldados/Episodio_-_4.mp4
-#EXTINF:-1, FBI E1
-http://pilarika.no-ip.org/Documentales/Los_secretos_del_FBI/01_-_Copyright.mp4
-#EXTINF:-1, FBI E2
-http://pilarika.no-ip.org/Documentales/Los_secretos_del_FBI/02_-_La_pesadilla_americana.mp4
-#EXTINF:-1, FBI E3
-http://pilarika.no-ip.org/Documentales/Los_secretos_del_FBI/03_-_Infiltrarse_en_la_mafia.mp4
-#EXTINF:-1, FBI E4
-http://pilarika.no-ip.org/Documentales/Los_secretos_del_FBI/04_-_Psycho.mp4
-#EXTINF:-1, FBI E5
-http://pilarika.no-ip.org/Documentales/Los_secretos_del_FBI/05_-_Solo_en_casa.mp4
-#EXTINF:-1, Torre de Tesla
-http://pilarika.no-ip.org/Documentales/Los_archivos_de_Tesla/03_-_La_torre_de_Tesla.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3cdb39a6-682b-44b6-8ebe-c161941f04ed.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ed5250c7-e3fb-46e6-bc54-fa88bf0492a4.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7a6985d5-bda6-4d5f-ace0-b0e255c0b6fe.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a5708a5f-283b-46e8-b194-bcf4c5e35452.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/68582ea5-08aa-4c08-8253-10a3e0cfa30f.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9f01d08b-744c-4af4-87ee-84b84256ecb0.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/af675710-4c32-4efb-98ab-0abe01e78f19.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/227565bd-ff4a-4aa9-8a78-a78fe2fc23ff.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/325542b1-75e4-4249-b923-d8f19b7aff95.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0a96fa62-9b10-4942-a139-8acb959b60fe.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7d1f3903-07e9-43ce-8f51-02dc2af4cf24.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8de2f976-44e0-492b-aa1c-22930a1e3d4e.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e8ef5419-d497-46cd-a145-521bddb7e368.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7ba31215-ed15-4aa2-bcc2-33813d1768eb.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/369dd422-5a1d-4709-9143-07946d4ce6f3.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/68ab11a1-f23f-4a86-9633-9a4711424a76.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/76016c60-acc4-4ea3-86fc-e2d64e58cdd0.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4c3c4e91-383b-4464-ba6d-bf56bba13e6b.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/81c617b6-3659-4343-aa65-7ddbf604c1b3.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/171aaa67-b130-4037-9c51-5516b0f27ae2.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5f97c1c6-de37-44fd-9e4d-5561dad289f5.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/08068788-f276-4df1-a4f2-cc951fc90e12.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fb87ce54-811c-4d57-93c8-61018757b6e7.mp4
-#EXTINF:-1, Dos Hombres y Medio S1 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2afe4367-7ae7-4830-b9f3-47dfa44be576.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f9a4dafe-f869-44cf-9a6b-9d97eed0db36.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ff1df547-63ad-43e3-8029-80ac9029f1a3.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5289ed74-7d4f-4534-8e66-08b2b811e24d.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5f40c887-11eb-4e16-b3c4-140689787be9.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ec71986e-6ee9-443f-a71e-eb81b4fa1610.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/69cbacca-947f-47c0-bdd3-f58ebbe6b72b.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/19657ee0-d108-48b3-9c5f-9589e60c7502.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/49fb002e-1aa5-498c-beed-9f147c3d3440.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1408c8ac-9ff4-4024-b773-0c93480e2787.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6f91ed09-ced2-4923-93f7-fdde7cd2e0e8.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/caaaf11a-8f84-45b0-b2af-11b64df7bc0b.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9e1bc0ad-afb7-4ea6-8f94-227797c540a7.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0ef6fd90-55ac-47f0-adcd-badbbc52ad51.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b09c88a0-a460-4f1f-8741-4a3422b7d628.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5fcbc67f-79a3-4071-8d3c-cb2364c10962.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/542abfe9-7cda-4eba-a42c-a4dcf6678358.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4e67c845-bfd9-40ff-a90d-6fa0a2e76c1e.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/79d33147-221c-445a-87a0-e62214d69c52.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f59e8ea9-47e9-49b0-a8d4-53c72911d4d6.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a753e8b2-4bb9-47dd-bbe5-4836ed4710b2.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/03c1a464-3afd-4a01-a2d8-1f29939c04f7.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bbc2ce24-c9d4-4386-aefc-65bf3248b2dd.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8d28df3a-115c-475e-bcf2-120a92b2ec10.mp4
-#EXTINF:-1, Dos Hombres y Medio S2 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5a560700-db87-4843-b0a7-a9e23af3097b.mp4
 #EXTINF:-1, Dos Hombres y Medio S3 E1
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d3e88775-579e-4fb1-9260-5ef4387d7cc1.mp4
 #EXTINF:-1, Dos Hombres y Medio S3 E2
