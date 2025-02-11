@@ -3,596 +3,6 @@
 
 #EXTINF:-1, SEX Y SEN
 https://tvnettv.space/contenido/peliculas/Sex%20And%20Zen%20II/6080.Sex.And.Zen.II.1996.1080p.BluRay.mp4
-#EXTINF:-1, Dancing Queens
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9d1f9d42-da42-4735-8ff9-0158dedba326.mp4
-#EXTINF:-1, Cuentos al caer la noche
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c315b0d2-afc5-408a-a9af-672c9e5f9055.mp4
-#EXTINF:-1, Diarios de intercambio
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/615fb8a3-7d81-44ee-9144-a5bfa10cbbc7.mp4
-#EXTINF:-1, [REC]⁴: Apocalipsis
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94017d96-e578-4196-b6c3-be1449c2d901.mkv
-#EXTINF:-1, [REC]³: Génesis
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/02f2e6d7-29d5-4215-9196-8e1f6cb8a589.mkv
-#EXTINF:-1, Mañana te cuento 2
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f1aa8e5c-51d1-4fb7-9b52-87161b1de001.mp4
-#EXTINF:-1, No se lo digas a nadie
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/70a79206-0a12-47cc-99e0-2788b0dfeecc.mp4
-#EXTINF:-1, Terroríficamente muertos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c9924af-e78b-4781-a682-c2ad46616fdb.mp4
-#EXTINF:-1, El ejército de las tinieblas
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b1a1491c-39da-41ee-b0e2-f626d164f797.mp4
-#EXTINF:-1, Viuda negra
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f0146b6b-ec17-4832-87a5-bba297244d5c.mp4
-#EXTINF:-1, La madre de la novia
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/26c5eaea-415c-4ca4-b8a6-f36a5f540151.mp4
-#EXTINF:-1, Noche de Bodas
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3494d1aa-c72f-43ea-ac24-950569032fc7.mp4
-#EXTINF:-1, Finding Love in Sisters
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8f62fc91-2b6f-4434-8df0-53ecf882deeb.mp4
-#EXTINF:-1, De Caperucita a loba
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f0d9a660-c40b-478d-b034-bbf8b6db097b.mp4
-#EXTINF:-1, Apaixonada
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2dca4892-464f-46a3-85c7-4a30ac5a8ac8.mp4
-#EXTINF:-1, Vampiras: The Brides
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/478282e2-93a3-480d-a359-924af38909f1.mp4
-#EXTINF:-1, Sin tiempo para espiar: Una peli de Una casa de locos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6457e8f0-82f6-4830-83c2-762a76406a72.mp4
-#EXTINF:-1, La gran seducción (A)
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5de49b7e-9fe4-4484-b05c-a85d937c257e.mp4
-#EXTINF:-1, Duplex
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/00d11b15-3316-4639-8113-6203a685e5a9.mp4
-#EXTINF:-1, El cuartito
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b933cd2-f464-4a83-b5e1-53f76d2784c4.mp4
-#EXTINF:-1, El que busca, encuentra
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7cdb2aba-9038-475c-b35f-ee9de792013d.mp4
-#EXTINF:-1, Dry Martina
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8ba40f0b-1081-46ad-83a0-f16f85435da3.mp4
-#EXTINF:-1, Juntos y revueltos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1416d30d-5c56-4735-b2cc-eda9cf0abafe.mp4
-#EXTINF:-1, Escuela nocturna
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ab471c0a-4e17-4bdd-86f7-af042a3f9a1f.mp4
-#EXTINF:-1, El ataque de las mujeres araña
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/28b74498-ceaf-4d79-bb22-0e0e69243576.mp4
-#EXTINF:-1, A Little Bit of Heaven
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c113fde7-7076-4f25-864d-737698cdd1b7.mp4
-#EXTINF:-1, A La Mala
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/526ee80a-ebad-464a-9cf2-e2f3b4d37cbf.mkv
-#EXTINF:-1, A Ti Te Quería Encontrar
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/35beda09-c5a9-4cda-860e-68e5d2642fbd.mkv
-#EXTINF:-1, Una noche con mi exsuegro
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/23e4f490-3227-47b8-9409-efbd34383114.mkv
-#EXTINF:-1, Chulo por accidente
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e882103f-7473-414d-b1a5-41af3c23219d.mkv
-#EXTINF:-1, Al son que me toquen bailo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ac52d956-7073-4a95-9834-b0de91c9cfcc.mkv
-#EXTINF:-1, Amalia, la secretaria
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9296fa99-24f1-4a89-b57f-edbabe4b9df7.mkv
-#EXTINF:-1, Amigas con solera
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b14eb4d-fd7f-4d2d-9cb8-4a3565d0a21a.mkv
-#EXTINF:-1, Amor Viajero
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b577e2c7-08d7-43b6-ba87-aeedea1681de.mkv
-#EXTINF:-1, Eres mi pasión
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1d84f4b8-d081-48e7-9fbb-93dfdb2f2fc2.mp4
-#EXTINF:-1, Amor urgente
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a0f20280-feb1-4b0f-a0ad-c4d4951a6c13.mkv
-#EXTINF:-1, Amor garantizado
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/08cb3b3a-1def-4ded-b747-c8a9c865fa89.mp4
-#EXTINF:-1, Amores Modernos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ef5817cc-8dcd-406c-bc8e-ed37938a3303.mkv
-#EXTINF:-1, Bandidas
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d4282fb8-3baa-4a30-a9c7-ea0035127390.mkv
-#EXTINF:-1, Bedtime Stories
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8df0dc6e-b442-48cb-a172-9b7235f97955.mkv
-#EXTINF:-1, Chalet Girl
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b805a888-c494-4d2b-953c-6aa6af8fbc81.mkv
-#EXTINF:-1, Drácula, un muerto muy contento y feliz
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9d46d309-0710-4fc4-8866-058e8e6a11dd.mkv
-#EXTINF:-1, Amor sin cita previa
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/19bda732-aa98-4bff-91fc-e54de7f26532.mp4
-#EXTINF:-1, Blonde Ambition
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe4e5a12-8d04-4c2d-bc94-29594ef5e890.mp4
-#EXTINF:-1, Busco novio para mi mujer
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8c8aba29-6eee-49fe-b560-9bc412231c96.mp4
-#EXTINF:-1, Cooties
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fac7f1d6-a65c-4d75-9bcb-84163530ab91.mp4
-#EXTINF:-1, Cuerpos especiales
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9c6b0bdc-8c1b-48f6-a208-daf59713ba2a.mp4
-#EXTINF:-1, Niñera a la fuerza
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/808f8867-9932-4999-b195-3056732255ed.mp4
-#EXTINF:-1, Encuentros al Azar
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5aa97f8f-44e9-4480-acf6-e091ed72d4fb.mp4
-#EXTINF:-1, Amar
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bf53b8d8-9f90-4ece-a1eb-a2b3e73fd3e7.mkv
-#EXTINF:-1, Fallen
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/aa39aa4a-19f1-486e-aba3-7ce487177c9c.mp4
-#EXTINF:-1, Ladies Night
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f68339fa-c239-4f53-8d79-8a4ff62b804e.mp4
-#EXTINF:-1, Le mannequin
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ee0c67d0-94f6-4d27-8539-4e61e4ff2b6c.mp4
-#EXTINF:-1, Locos de Amor 2
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c328ab3-8fd7-45d7-9f11-d0bc478b04d3.mp4
-#EXTINF:-1, Los Oriyinales
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4588049b-69cd-4dca-8e8b-274c26083e09.mp4
-#EXTINF:-1, A por todas: Enfrentamiento mundial
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/17e624b1-8d7b-421f-adab-29c48f441eed.mp4
-#EXTINF:-1, Mamma Mia! Una y otra vez
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6ad20b8d-a95c-469d-a329-de7b99d596fa.mp4
-#EXTINF:-1, La casa de las dagas voladoras
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/15a527d3-00b9-472b-9671-d1cd11d67ecb.mp4
-#EXTINF:-1, Me estás matando, Susana
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b149bdc-5dfe-4e1c-b84a-5a40bacd7abe.mp4
-#EXTINF:-1, A Little Bit of Heaven
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4743d208-3180-4b02-9d2d-6e5c826b8163.mp4
-#EXTINF:-1, Miamor perdido
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3fd8f2ef-61bc-4446-aff8-6a5a96077d3d.mp4
-#EXTINF:-1, Serendipity
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/620904d3-200a-40ab-8c75-d8b8ad318988.mp4
-#EXTINF:-1, Attraction
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/42cdbda4-7472-46d8-b735-7928ac7ef02d.mkv
-#EXTINF:-1, Serena
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ad221831-cb48-493a-b3d1-f9798ecf1914.mp4
-#EXTINF:-1, Cambio de princesa
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c9c7801d-6652-467b-b194-1b3a17f5c135.mkv
-#EXTINF:-1, Te pido un taxi
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8b412131-0343-4fd1-8bf3-f3fd3ad15d8b.mp4
-#EXTINF:-1, Tengo ganas de ti
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/648d23c8-c57b-4cbc-a21e-f090340b0839.mp4
-#EXTINF:-1, The Boy Downstairs
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/11b59352-93a8-49e3-aa5a-ab16ae1a18e5.mp4
-#EXTINF:-1, Langosta
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7da824b4-07b1-4e6d-a470-06e134dd6cfa.mp4
-#EXTINF:-1, The Lovers
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a92f9224-b252-4f3c-82f0-7c95776cf555.mp4
-#EXTINF:-1, Burlesque
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8adc2e72-90f8-49a1-b97f-6f8a2cc239ce.mp4
-#EXTINF:-1, The Model
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe7d1fbf-26a1-40bd-8028-10c5686837c5.mp4
-#EXTINF:-1, Un romance de cine
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8b9ef9d0-657e-443e-870e-633c39ad1597.mp4
-#EXTINF:-1, Dirty Dancing
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f84ad66c-a167-496d-a9f3-13853aa00eec.mp4
-#EXTINF:-1, El Sabor Del Verano
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/14dafad2-fdf4-4b79-8cd2-306978571f74.mp4
-#EXTINF:-1, Cindy La Regia
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a75a2f26-bdea-483d-b81c-ff1480bf6b89.mp4
-#EXTINF:-1, Siete hermanas
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b74f374e-c3f1-46b5-9b4f-e57f6644b67b.mp4
-#EXTINF:-1, Vampariah
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1c781ddd-5128-4b1c-a454-66bd6882695b.mp4
-#EXTINF:-1, Wendy
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a6294770-ffe7-499f-b081-c155318f5f4d.mp4
-#EXTINF:-1, Las Brujas
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8ab753c9-6ef6-42b7-a45b-deb32038aa49.mp4
-#EXTINF:-1, The Witches
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/279c6f31-5136-43eb-9e93-96455db74387.mp4
-#EXTINF:-1, Abyss
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/32047a3c-b5d2-4e04-9d90-47eb3b353a54.mp4
-#EXTINF:-1, Estasis
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/abca99be-e9b8-4c06-8aa0-1da6ffd11ccd.mp4
-#EXTINF:-1, Amor de gata
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bff583c9-2a53-44b2-9263-112cbb76b3d5.mkv
-#EXTINF:-1, La vida oscura del Gran Duque de Córcega
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0db4af77-de88-4f55-ab27-e2a2271ab777.mp4
-#EXTINF:-1, Under the Skin
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8dc6906a-047c-42c5-92a0-09734f0b2505.mp4
-#EXTINF:-1, Cosmic Sin
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0c9c212a-a11f-448a-a8f5-1df65ccc0c46.mp4
-#EXTINF:-1, My Favorite Girlfriend
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/937132ed-53df-4ca2-ad8c-b8a6be6fb99b.mp4
-#EXTINF:-1, Esposa De Alquiler
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f7f26caf-881f-493e-a33d-23bcffe02e28.mp4
-#EXTINF:-1, Impúdica
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/44d488d4-8441-4396-a279-b13e284eb4bc.mp4
-#EXTINF:-1, 1 Sexy Criada   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0a14f385-b06b-4c0e-8091-4a9dd5527603.mp4
-#EXTINF:-1, 1 Súper Salchicha   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7b7ba69c-d9a1-46b3-9038-af26b78b8b45.mp4
-#EXTINF:-1, 2 Hermanas Vs 1 Masajista   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7bbccdbd-f345-4b4f-9573-30a2668a6b84.mp4
-#EXTINF:-1, 69 Con Athena   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3902942d-817e-48d9-bdf7-f8e926b21733.mp4
-#EXTINF:-1, Casting  Latina XXX   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1db04fdf-8cb0-4ab8-8218-9ed0517e04c5.mp4
-#EXTINF:-1, Consejera sexual   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e74b0f0e-81e8-4c0c-9705-bf2aafc2c9b8.mp4
-#EXTINF:-1, Delicia Húmeda   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0bf1f84b-18d2-4eb3-9013-7808bdf99cb0.mp4
-#EXTINF:-1, Ella Juega En Cuatro   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/980ec169-1fdf-4d22-a489-2ad139a7c22f.mp4
-#EXTINF:-1, Escapada Sexual   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1b9e60b5-a81a-4c2e-9608-b2713f27d640.mp4
-#EXTINF:-1, Frotandose en la ducha   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/92a95460-8f9c-4592-a6b4-f581f24ebcd9.mp4
-#EXTINF:-1, Interracial En El Trabajo   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a7e9d842-5647-453d-b0b3-d7f357e99fe2.mp4
-#EXTINF:-1, Llévame a un motel   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6b8c5050-d5be-40b7-a0e6-ea15d85bdbfe.mp4
-#EXTINF:-1, Mamada hasta el fondo   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2908d8cd-4d36-42d9-99ae-06b416fdbc7a.mp4
-#EXTINF:-1, Mamadas Secretas   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e960a5b4-f0a8-4cf3-bdd6-47d81c14fdf4.mp4
-#EXTINF:-1, Novias chanchitas   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b4bf57d3-3a5d-4309-9a2a-fea1585f3f36.mp4
-#EXTINF:-1, Orgasmos Con Mi Amiga   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ab75b520-b790-49b1-b707-35cb4f6c56e2.mp4
-#EXTINF:-1, Princess Jas Hermosa   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fb346478-b6f3-4e3f-9fc3-e66906d526b8.mp4
-#EXTINF:-1, Putitas a la ducha   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4439b40c-a18f-4c52-b0e3-bc8b7c3df4bc.mp4
-#EXTINF:-1, Sexo en la ducha   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1efcd22a-f1e2-428f-ba7c-83ad2b526953.mp4
-#EXTINF:-1, Show lesbi y privado   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5cc02933-f097-467f-9453-63925aa629d6.mp4
-#EXTINF:-1, Siempre Final Feliz   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7ac3b56-e327-412f-a0cc-b721bf6efdf9.mp4
-#EXTINF:-1, Sloan vs Evelin   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1c71271a-bb6b-4462-a6e6-bd48f5a63740.mp4
-#EXTINF:-1, Transmisión De Sexo   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4161cf43-5dd4-44b4-88f4-2c8189e5f7f4.mp4
-#EXTINF:-1, Trato de hermanastros   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/293de212-905f-420a-ae0a-5787fb6dbe0e.mp4
-#EXTINF:-1, Trío De Lenguas   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0f6e3ca3-1fad-4c5c-9feb-7ab8597c1464.mp4
-#EXTINF:-1, Un baño pegajoso   Hotgo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/05201db5-6c02-4453-b60c-0d797852331d.mp4
-#EXTINF:-1, TIBURONES EN PARIS
-https://tvnettv.space/contenido/peliculas/Under%20Paris/Under.Paris.2024.1080p.WEBRip.lat.mp4
-#EXTINF:-1, SOMBRAS SINIESTRAS
-https://tvnettv.space/contenido/peliculas/Sombras%20siniestras/Sombras%20siniestras%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, SQUALER
-https://tvnettv.space/contenido/peliculas/Squealer/Squealer%20(2023)%201080p%20WEB-Rip%20Latino.mp4
-#EXTINF:-1, VIAJE NOCTURNO
-https://tvnettv.space/contenido/peliculas/Un%20viaje%20hacia%20la%20noche/Un%20viaje%20hacia%20la%20noche%20(2021)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, STOPMOTION
-https://tvnettv.space/contenido/peliculas/Stopmotion/Stopmotion.2023.1080p.WEBRip.1400MB.mp4
-#EXTINF:-1, VISITANTE DE INVIERNO
-https://tvnettv.space/contenido/peliculas/Visitante%20de%20invierno/Visitante.de.invierno.2008.WEB-DL.mp4
-#EXTINF:-1, ANTES DE CONOCERNOS
-https://tvnettv.space/contenido/peliculas/Which%20Brings%20Me%20to%20You/Antes%20De%20Conocernos%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, EL FAVOR
-https://tvnettv.space/contenido/peliculas/el%20favor/elf4v0r.2023.1080p.Cast.mp4
-#EXTINF:-1, VETERANO
-https://tvnettv.space/contenido/peliculas/The%20Last%20Rifleman/El%20%c3%baltimo%20veterano%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, EL GRAN CAMBIO
-https://tvnettv.space/contenido/peliculas/The%20Shift%20El%20gran%20cambio/The%20Shift%20El%20gran%20cambio%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, EXTRANOS
-https://tvnettv.space/contenido/peliculas/The%20Strangers%20Chapter%201/Los%20extra%c3%b1os%20Cap%c3%adtulo%201%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
-#EXTINF:-1, FE VS ATEO
-https://tvnettv.space/contenido/peliculas/The%20Sunset%20Limited/The.Sunset.Limited.2011.1080p.BluRay.Latino.mp4
-#EXTINF:-1, SINDROME
-https://tvnettv.space/contenido/peliculas/The%20Syndrome/The.Syndrome.2021.1080p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1, ANIME PRINCESA
-https://tvnettv.space/contenido/peliculas/The%20Tale%20of%20the%20Princess%20Kaguya/The.Tale.of.the.Princess.Kaguya.2013.1080p.BluRay.lat.mp4
-#EXTINF:-1, NAHIR
-https://tvnettv.space/contenido/peliculas/Nahir/Nahir%20(2024)%20WEB-DL%20%201080p%20Latino.mp4
-#EXTINF:-1, AMOR EN VENTA
-https://tvnettv.space/contenido/peliculas/Amor%20en%20Venta/Amor%20en%20Venta%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, ANNIE
-https://tvnettv.space/contenido/peliculas/Annie%20Hall/Annie.Hall.1977.1080p.BluRay.lat.mp4
-#EXTINF:-1, GODZILLA
-https://tvnettv.space/contenido/peliculas/Godzilla%20Minus%20One/Godzilla.Minus.One.2023.1080p.BluRay.LAT.mp4
-#EXTINF:-1, GODZILLA VS KONG
-https://tvnettv.space/contenido/peliculas/Godzilla%20x%20Kong%20The%20New%20Empire/Godzilla.x.Kong.The.New.Empire.2024.1080p.WEBRip.Dual.Latino.mp4 
-#EXTINF:-1, HABIA UNA VEZ EN MEXICO
-https://tvnettv.space/contenido/peliculas/Once%20Upon%20A%20Time%20In%20Mexico/9888.Once.Upon.A.Time.In.Mexico.2003.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1, LAZOS DE VIDA
-https://tvnettv.space/contenido/peliculas/One%20Life/Lazos%20de%20vida%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, BIONIC
-https://tvnettv.space/contenido/peliculas/Bionic/Bionic.2024.1080p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1, LOTOMAN
-https://tvnettv.space/contenido/peliculas/Lotoman/Lotoman.2011.WEB-DL,lat.mp4
-#EXTINF:-1, BURGA
-https://tvnettv.space/contenido/peliculas/Burga/Burga%20(2023)%20WEB-DL%20LIGERO%201080p%20lat.mp4
-#EXTINF:-1, COMPLICES DEL ENGAÑO
-https://tvnettv.space/contenido/peliculas/C%c3%b3mplices%20del%20enga%c3%b1o/C%c3%b3mplices%20del%20enga%c3%b1o%20(2023)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
-#EXTINF:-1, CAUTIVA
-https://tvnettv.space/contenido/peliculas/Cautiva/Cautiva.2003.1080p.WEB-DL.lat.mp4
-#EXTINF:-1, CENIZA
-https://tvnettv.space/contenido/peliculas/Ceniza/Ceniza%20(2024)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, CHALLENGERS
-https://tvnettv.space/contenido/peliculas/Challengers/Challengers.2024.1080p.WEBRip.lat.mp4
-#EXTINF:-1, PUNTO SIN RETORNO
-https://tvnettv.space/contenido/peliculas/Point%20Of%20No%20Return/Point%20Of%20No%20Return%20(1993).720.bdrip.lat.mp4
-#EXTINF:-1, COSMIC
-https://tvnettv.space/contenido/peliculas/Cosmic%20Dawn/Amanecer%20C%c3%b3smico%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, CREW
-https://tvnettv.space/contenido/peliculas/Crew/Crew%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
-#EXTINF:-1, LOVE LIES BLEEDING
-https://tvnettv.space/contenido/peliculas/Love%20Lies%20Bleeding/Love.Lies.Bleeding.2024.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1, ESPALDAS AL MUNDO
-https://tvnettv.space/contenido/peliculas/De%20Espaldas%20al%20Mundo/De%20Espaldas%20al%20Mundo%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, PRESA
-https://tvnettv.space/contenido/peliculas/Prey/Presa%20(2024)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, ULTIMA ESPERANZA 
-https://tvnettv.space/contenido/peliculas/M%20%20La%20Ultima%20Esperanza/M%20%e2%80%93%20La%20%c3%9altima%20Esperanza%20(2023)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, EILEN
-https://tvnettv.space/contenido/peliculas/Eileen/Eileen%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, Quien Se Quedará con Masha
-https://tvnettv.space/contenido/peliculas/Quien%20Se%20Quedar%c3%a1%20con%20Masha/%c2%bfQui%c3%a9n%20Se%20Quedar%c3%a1%20con%20Masha%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, CENTAVOS
-https://tvnettv.space/contenido/peliculas/El%20Poder%20de%20los%20Centavos/El%20Poder%20de%20los%20Centavos%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, EL SALARIO DEL MIEDO
-https://tvnettv.space/contenido/peliculas/El%20salario%20del%20miedo/El%20salario%20del%20miedo%20(2024)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1, NOMBRE DE TIERRA
-https://tvnettv.space/contenido/peliculas/En%20nombre%20de%20la%20tierra/En%20nombre%20de%20la%20tierra%20(2023)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, MAQUINISTA
-https://tvnettv.space/contenido/peliculas/Entre%20la%20vie%20et%20la%20mort/El%20Maquinista%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, MEDIDAS EXTREMAS
-https://tvnettv.space/contenido/peliculas/Medidias%20extremas/Medidias%20extremas%20(2022)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
-#EXTINF:-1, MIDNIGHT 
-https://tvnettv.space/contenido/peliculas/Midnight%20Peepshow/Midnight.Peepshow.2022.1080p.WEBRip.mp4
-#EXTINF:-1, MIENTRAS DUERMES
-https://tvnettv.space/contenido/peliculas/Mientras%20Duermes/Mientras%20Duermes%20(2021)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, PACIENTE
-https://tvnettv.space/contenido/peliculas/Klienten/El%20%c3%baltimo%20paciente%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, LAST NIGHT
-https://tvnettv.space/contenido/peliculas/La%20%c3%9altima%20Noche%20en%20Pacerville/La%20%c3%9altima%20Noche%20en%20Pacerville%20(2022)%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1, IDAHO
-https://tvnettv.space/contenido/peliculas/My%20Own%20Private%20Idaho/My.Own.Private.Idaho.1991.1080p.BluRay.lat.mp4
-#EXTINF:-1, ROMEO Y JULIETA
-https://tvnettv.space/contenido/peliculas/Romeo%20and%20Juliet/Romeo.and.Juliet.1996.1080p.BluRay.Dual.Latino%20(1).mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d3e88775-579e-4fb1-9260-5ef4387d7cc1.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/48df7fff-32f8-4842-9df9-f1486a8b54e8.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3642b5a5-4cc3-4588-a46b-1ac8cd4c9087.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1f51796a-8c3b-4a58-b3ac-efd4bb1e4bba.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cfc7974f-f900-4891-81d8-9cb549dfe431.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f49dcd4f-c73c-43c1-9c74-14955de713bb.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fb32f380-64bf-4210-82ec-5d620f1a23d2.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5e43d162-e543-4f57-9077-de543c4078df.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0ebaab96-7601-4864-96cb-06bd4b133fd6.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/82a73766-9cfb-459b-8a0d-871455cbe4b1.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1d633435-595d-418b-b64b-a7764a8c3cd3.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bc7745d3-8c20-4343-9fab-8284c132f952.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b9336b15-2beb-4433-bff7-686590e5041e.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/443811d4-3740-49f5-a390-2930191cafbb.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6218351a-5fa4-4d6e-9558-3e312830f5f3.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/162affcb-ddb9-448a-b2f1-5bfaf5558423.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b1ff0dde-f7ad-4361-860d-6b8994980894.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9e3a7c89-3f22-4d9c-a004-b79503e31bbb.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e30a16fa-4c98-47e2-8eb6-d7d4a5cc7d8f.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f618987e-5cd9-4521-9952-6262930c9e12.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9227046a-c4ef-465e-98b1-1d2a2e2d3d2a.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cc9e5d68-ceef-43d4-bfd9-1fd977aad468.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cebc8a62-5fdf-40b8-9881-d6e53f56fb3f.mp4
-#EXTINF:-1, Dos Hombres y Medio S3 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d64cbc8e-380a-416b-ae81-bb9477ae4cac.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d794ec7c-1de2-4b8e-96de-ff8b9c585cc6.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/41334f7d-7ac6-4274-a1d3-ef98e66a4673.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f29aefeb-6a8a-4776-9b8e-99f739de4cfb.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/80587248-4cda-47a1-b518-aa8148b76dcf.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0ceb8e22-1032-4b68-a8a4-29685633bea0.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/908d399c-ae87-41e0-9e89-a672fab9bd72.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/acf54a8b-2e21-497f-b5d8-c06131c0c493.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c5c15a3c-6fae-48bb-8fca-a278052100a7.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0006496d-f5db-4143-a48b-fb35c45c7474.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c7a462fd-caa7-4c1f-b50d-4ea12e9259e5.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f9ebc630-ce75-4415-9161-67ee5f97cd5b.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/aa8dfee6-61f4-4586-bbb2-eba5b21f4be5.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1ee121b7-ffaa-4514-824f-aaf4e42d444c.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d4d2f2c2-a18d-435f-bcf5-a7f24efcee1d.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/06395700-fffe-41c0-a88d-402eb468d8e8.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3d9ff1c3-5384-4f6e-ad96-9693e1748d1f.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6920c612-9cc3-4f71-a735-489350a2a5e6.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6bbfedea-9e33-49a0-bd15-2ca7d79ff8d4.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/63d220c5-545a-4394-8172-c591c96bfe32.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/692461fb-c7c9-4ea3-86c8-9babf7cd3c8c.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d2acf98d-5d7e-4436-834a-327384111d96.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/253b97d7-c363-4f00-b8f9-ae16970d1900.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/aa9d3c58-60bf-43b8-a105-b1fe759a82dd.mp4
-#EXTINF:-1, Dos Hombres y Medio S4 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/72690d00-7aef-4497-b11a-006ad4f9c427.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/36e3eeb6-ebd9-4c85-a940-d25a39036d2f.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/40747f32-3497-429f-887f-0cdcbf8f74db.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c524b51d-a31d-4186-baa1-104b2bcbd240.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3c34566b-9a46-421c-a503-a57eac2fbb38.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d73e72b1-79e5-4c0d-95df-dade4d6d3312.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9e3602f7-224b-4880-a158-e5285579f3e5.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d766cbec-3aad-4261-88d7-df62693b6856.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/73db6647-e84a-4d10-be58-c79d7db792da.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/29d90697-e0dd-4161-aa9a-7195f36efd53.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/78bf68d4-14cb-46ae-963f-295bf23e2ef1.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bbc63685-9e11-42f1-bd49-2f1d74df600a.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/217cc379-4bcf-4e6e-957f-0ea012898752.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4b4b6da2-6c9b-4dc8-a27b-2160392a8aae.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/70693bb5-588f-485d-bbec-3a9a58bbb95f.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7765720e-ca9d-4456-a469-ec50b44258e0.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c278fab2-c6ab-42ee-8301-f753e5752393.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5743abd4-a7b2-4654-a6f7-5cc063888ecd.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1631a92e-ae7e-4f3e-88c4-77da23e3db10.mp4
-#EXTINF:-1, Dos Hombres y Medio S5 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/70b4f45a-8590-4b15-8c97-d2b1151db62c.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/adab832b-0e24-4a50-9d5f-983412afd652.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/336c714c-d0ea-48bb-8519-98f8f691e955.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/842ea7ec-a3c5-4028-8be0-bcba6e18567b.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/314eef0b-a393-4fb3-9a25-a2aa395abd54.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/10f5179a-6820-4172-a097-9131d7a46f86.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6a81ce6b-f8fe-45c4-b495-0e88601a2b60.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/dd819604-6fca-4a4a-994a-feff72558cdb.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/03f7314b-d6b9-4a40-b074-37be58622e42.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/05128100-3a61-4db2-bb46-1b0abc2d04a5.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d7ace96b-643b-45e5-baa3-8e4b23f80ac5.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8f5e53c3-7506-42a4-ab4c-0427ff9cd9e7.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d0a0b93a-3d00-4f45-bd79-79459d88be72.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/447f416f-ec81-48ea-927d-9dc2110b7b6d.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cc50b04c-b4ae-44d3-8fe0-a73abdc764e1.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7a5d561a-a892-4985-8d09-ff79573b4e5c.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/230807a2-3e72-4a30-aa78-dff576b5183c.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/585b8cb4-1242-4c8f-a350-d6b6ef18b236.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/564d0108-ab46-4d6e-9760-1b224b15b5f2.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c0a77ab7-8bd5-40e0-94a4-4a427a04f5d0.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c03c6347-0b69-49d2-8f17-1ac27326c7b6.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6b45d7b0-b02f-49de-bd7f-76a33cafacde.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0d28937c-b9c1-430f-bf96-141aea54815e.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/19e734ca-7e2c-43ee-839f-64d6facc6268.mp4
-#EXTINF:-1, Dos Hombres y Medio S6 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f676a7c3-b849-425b-ad22-110e9b73d692.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/33c749bc-26d8-4548-9afe-ed94cf383e91.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0df2f3e9-08f8-4c02-8369-cc1e2e48b170.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ccebbe11-acea-463e-bdf0-320f231385c7.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fd6d4c3f-e522-480c-b443-f62b160508d7.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8a894027-8218-48e1-8f60-4ab42c5582ea.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8c9892ff-83e4-440a-9c2e-2c16008ff393.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/38846cb9-d855-4c63-b97a-83405fcdbb92.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cc9625ba-5ae0-4026-b767-9da6d18dff32.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/aabce1c4-48ec-4864-b6dc-60aa90062833.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3e022dda-64d5-472f-93ef-20d5d02b6368.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/165c9ce1-fdb8-4e31-843e-97ed2db02680.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/178031c2-e1a8-48d6-a3c6-9a0bc1ebcf0c.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cdb00e7c-ef62-4c9b-af17-6af8f106e1d2.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e161b45b-db97-4f64-a617-6bd6a35f7120.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/606254da-fb25-465e-9594-04bf025a8495.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5a68c4ec-2726-4c4c-9ee4-60239e93b548.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0143386d-a9de-4e93-8018-5af2ce4d232a.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e20c7adf-ab6c-410c-b318-37517af3579f.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0a49211c-63fd-4b33-b1b9-4e9d301ec171.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1b5deba4-63e1-4ae6-ac30-bbb2eca21aad.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8298c00f-6d12-4bd9-bfcb-86dc356787ae.mp4
-#EXTINF:-1, Dos Hombres y Medio S7 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e6f78be7-46fd-4ce8-a907-1aeb185ae536.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/37c1686a-f411-4e18-9737-4e52414b0544.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/64ecf03a-f05b-4eb4-95a8-e47cfbfb2603.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f6e654e2-9726-494b-a3f0-9b61822a83c4.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b65c0ee8-9698-4b77-8891-daf91ef9a31a.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5395fd91-628a-40df-9dbd-66a36025148c.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/68cbc5e2-a293-4a34-bfe9-b4621335d23c.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/52880b24-0a13-4ced-8692-9914edb771a7.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bc314b6d-6ba6-4a0b-9e68-d410ecd81705.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ae5d1d7b-6ed8-41b8-bd5e-6dd31830b3fb.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1c14ebf3-1a9a-47db-9d92-e0fe4d08a497.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ad65dfee-081c-4c88-8092-84616f99e5a2.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/91227150-11a9-48f8-b417-955b5d5c6f01.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7ffe50ce-50a5-4a08-b611-2b7ac3fc9c95.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a0a5fdf2-c74b-474e-9e69-b28a6974325d.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/92f33d50-41d2-44ce-9cc4-760adb27f24c.mp4
-#EXTINF:-1, Dos Hombres y Medio S8 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ca80b27b-0e1c-4738-8000-05bcdfb54bcd.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E1
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/39e05cc6-7193-4cf1-9c26-157cacd9db03.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E2
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9f685d6d-720d-462a-a26c-32bf934bf5ff.mp4
 #EXTINF:-1, Dos Hombres y Medio S9 E3
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c97a26b7-57d3-4d9f-b7cf-79f63e54d22f.mp4
 #EXTINF:-1, Dos Hombres y Medio S9 E4
@@ -759,3 +169,1253 @@ http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7cd28665-bfe1-4728-955a
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b525197e-31e9-41cf-84ac-fade116a4f4b.mp4
 #EXTINF:-1, Dos Hombres y Medio S12 E16
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8e7abbe6-a7f7-4fbe-99b0-404ef36b2fea.mp4 
+#EXTINF:-1, [REC]⁴: Apocalipsis
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94017d96-e578-4196-b6c3-be1449c2d901.mkv
+#EXTINF:-1, [REC]³: Génesis
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/02f2e6d7-29d5-4215-9196-8e1f6cb8a589.mkv
+#EXTINF:-1, Viuda negra
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f0146b6b-ec17-4832-87a5-bba297244d5c.mp4
+#EXTINF:-1, Sin tiempo para espiar: Una peli de Una casa de locos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6457e8f0-82f6-4830-83c2-762a76406a72.mp4
+#EXTINF:-1, Escuela nocturna
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ab471c0a-4e17-4bdd-86f7-af042a3f9a1f.mp4
+#EXTINF:-1, El ataque de las mujeres araña
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/28b74498-ceaf-4d79-bb22-0e0e69243576.mp4
+#EXTINF:-1, A Little Bit of Heaven
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c113fde7-7076-4f25-864d-737698cdd1b7.mp4
+#EXTINF:-1, A La Mala
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/526ee80a-ebad-464a-9cf2-e2f3b4d37cbf.mkv
+#EXTINF:-1, A Ti Te Quería Encontrar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/35beda09-c5a9-4cda-860e-68e5d2642fbd.mkv
+#EXTINF:-1, Una noche con mi exsuegro
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/23e4f490-3227-47b8-9409-efbd34383114.mkv
+#EXTINF:-1, Chulo por accidente
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e882103f-7473-414d-b1a5-41af3c23219d.mkv
+#EXTINF:-1, Al son que me toquen bailo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ac52d956-7073-4a95-9834-b0de91c9cfcc.mkv
+#EXTINF:-1, Amores Modernos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ef5817cc-8dcd-406c-bc8e-ed37938a3303.mkv
+#EXTINF:-1, Bandidas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d4282fb8-3baa-4a30-a9c7-ea0035127390.mkv
+#EXTINF:-1, Bedtime Stories
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8df0dc6e-b442-48cb-a172-9b7235f97955.mkv
+#EXTINF:-1, Chalet Girl
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b805a888-c494-4d2b-953c-6aa6af8fbc81.mkv
+#EXTINF:-1, Drácula, un muerto muy contento y feliz
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9d46d309-0710-4fc4-8866-058e8e6a11dd.mkv
+#EXTINF:-1, Amor sin cita previa
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/19bda732-aa98-4bff-91fc-e54de7f26532.mp4
+#EXTINF:-1, Busco novio para mi mujer
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8c8aba29-6eee-49fe-b560-9bc412231c96.mp4
+#EXTINF:-1, Cooties
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fac7f1d6-a65c-4d75-9bcb-84163530ab91.mp4
+#EXTINF:-1, Cuerpos especiales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9c6b0bdc-8c1b-48f6-a208-daf59713ba2a.mp4
+#EXTINF:-1, Cosmic Sin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0c9c212a-a11f-448a-a8f5-1df65ccc0c46.mp4
+#EXTINF:-1, My Favorite Girlfriend
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/937132ed-53df-4ca2-ad8c-b8a6be6fb99b.mp4
+#EXTINF:-1,El juego bonito
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/16054e92-3a63-4739-a053-76744b4b0503.mp4
+#EXTINF:-1,¡Goool! La película
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/642ef669-aeeb-42da-a7a3-db43115fe24c.mp4
+#EXTINF:-1,¡Goool 2! Viviendo el sueño
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c96a1dfa-7657-49a6-8688-40bc59b51f72.mp4
+#EXTINF:-1,Goal 3
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8fb7a092-4210-4cc8-a9f0-9eb1d4248366.mp4
+#EXTINF:-1,Hit Man. Asesino por casualidad
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/93e64cd3-2da1-4fdb-93c9-087683f21e26.mp4
+#EXTINF:-1,¿Quieres ser mi... hijo? (C)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f503546f-23bd-4484-b207-b6016976057b.mp4
+#EXTINF:-1,MaXXXine
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/350228b6-4672-48eb-82a7-2384bc87d665.mp4
+#EXTINF:-1,Aquellas Juergas Universitarias
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7c40f6c-327a-46b8-83e6-23f37e03eb62.mp4
+#EXTINF:-1,El show de Truman
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0a69cd0c-48f8-48d5-9f07-76656131b3cc.mkv
+#EXTINF:-1,Nirvana - Unplugged in New York
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/eed7beae-1f5d-48be-80f6-a8d542bc6a23.mp4
+#EXTINF:-1,Perdidos en el Pacífico
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/19d8f12e-04fe-40a9-b9ab-50615d8cec71.mp4
+#EXTINF:-1,Justice Society: World War II
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/14a54241-10f6-4038-8652-481d8a16ec96.mp4
+#EXTINF:-1,Gurren Lagann: Las luces en el cielo son estrellas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8744caab-e891-4051-8f1a-42998024b38c.mp4
+#EXTINF:-1,El castillo en el cielo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/48b48ce7-3a76-4abb-be17-6899ea2d2cd5.mp4
+#EXTINF:-1,El niño y la bestia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/51e5b058-8cdb-4f8a-a306-654ce8be879b.mp4
+#EXTINF:-1,Evangelion: 1.0 You Are (Not) Alone
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e0f508c8-d9e2-46c2-9c2d-743aaf5e584b.mp4
+#EXTINF:-1,El castillo ambulante
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/560755c0-c70c-4f54-8ab1-0e285142ed0b.mp4
+#EXTINF:-1,Evangelion 2.0 You Can (Not) Advance
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d6a51e39-1377-4c82-908b-9f4b65fea908.mp4
+#EXTINF:-1,Neon Genesis Evangelion The End of Evangelion
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7f746cba-8e87-44eb-a287-82a33ca4f3a6.mp4
+#EXTINF:-1,Origen: espíritus del pasado
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/771045da-81f7-49b6-b232-29bf540a2e65.mp4
+#EXTINF:-1,Kenshin, el Guerrero Samurái
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1d32c331-c5d2-47ac-a2fa-e4e697c84e82.mp4
+#EXTINF:-1,The Legend Of Muay Thai9
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/87e33d1c-e01d-487c-b241-f6a9117b5fef.mp4
+#EXTINF:-1,10000 Years Later
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/08e6520c-db51-4305-84c9-44b925b3257a.mp4
+#EXTINF:-1,Gurren Lagann: Las luces en el cielo son estrellas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8744caab-e891-4051-8f1a-42998024b38c.mp4
+#EXTINF:-1,El samurái sin nombre (Sword of the Stranger)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ac5663e5-e593-42b0-abe5-b7f978660004.mp4
+#EXTINF:-1,Guardianes de la Noche: Tren infinito
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/50cdbf97-0cb5-45c1-9723-d64b904e808c.mp4
+#EXTINF:-1,Los niños del mar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/627235b5-218d-4918-99a4-695a7e750ccd.mp4
+#EXTINF:-1,Natural Born Zombie Killers
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a30fbc96-cda9-46ff-a7ba-cdc9c3171674.mp4
+#EXTINF:-1,Puertas al infierno
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a7caef40-6909-4844-ae62-f02636e57470.mp4
+#EXTINF:-1,Infectados
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0c546d28-adf8-4820-b5db-0844fa0d85d8.mp4
+#EXTINF:-1,Zombie Tidal Wave
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e9987fb7-a2b4-4e04-a1b9-9c415e50d6bd.mp4
+#EXTINF:-1,El faro
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/17229e0c-600c-4140-b50e-791bbfd10d10.mp4
+#EXTINF:-1,El regreso de los muertos vivientes
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe527740-f7f3-4cbc-bdd2-f768ecaff4fe.mp4
+#EXTINF:-1,La liga de los hombres extraordinarios
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/59b10dbd-7849-4262-bd1f-32f455ba9c93.mp4
+#EXTINF:-1,Nekrotronic
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0f43873f-e86c-4feb-90ed-11378ee09840.mp4
+#EXTINF:-1,Increíble pero falso
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/13c771d0-f390-4eb6-b28b-437b4b4a0c8a.mp4
+#EXTINF:-1,Los nuevos mutantes
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1cff068f-c14c-4f78-85c0-c1c329fcd9a0.mp4
+#EXTINF:-1,Jacuzzi al pasado 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/198faf64-bad3-4bd4-81eb-e6210b97ed63.mp4
+#EXTINF:-1,Autómata
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f10a6c13-9383-4f2c-9818-82cfcf82a698.mp4
+#EXTINF:-1,Alita: Ángel de combate
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/96992371-5bcc-48d5-9836-c8003afe07dc.mp4
+#EXTINF:-1,El jardín secreto
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/55f32cf7-5801-4783-abe2-2e47164cb720.mp4
+#EXTINF:-1,God of War
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/621aa1aa-ffeb-49a4-842d-1551898cd8b6.mp4
+#EXTINF:-1,Finch
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4306f8a7-c438-4087-9283-bb77da83ea88.mp4
+#EXTINF:-1,Guardianes del Tiempo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8de901e1-df03-4f52-bca2-bdfd8145d417.mp4
+#EXTINF:-1,Encounter
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/cfd1a7ef-5776-4c7d-b32a-8ea6d1efb9a0.mp4
+#EXTINF:-1,Sin filtro Noche sangrienta
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c020dc6-fafa-4fe0-adf2-8c5c1b455dda.mp4
+#EXTINF:-1,El lado oscuro de la luna
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d0655d9a-44a3-4c2c-84a3-9860a7fbd019.mp4
+#EXTINF:-1,Enola Holmes 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/73b7fc17-7661-403a-9739-330821e2c02c.mp4
+#EXTINF:-1,Mete miedo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6d52cd46-d36b-4100-9222-49d3bbeeedf6.mp4
+#EXTINF:-1,Seductores Irresistibles
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4d0b2a23-3516-4e94-bee5-daacbf7eb241.mp4
+#EXTINF:-1,El Viaje
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/88a65d8b-170b-4217-a018-73e7721d4880.mp4
+#EXTINF:-1,El triángulo de la tristeza
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/981bb332-41b8-4579-ab1e-9b268c4d43a4.mp4
+#EXTINF:-1,Ilusiones mortales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0840642a-e04e-477e-ae75-aa98097178f5.mkv
+#EXTINF:-1,Impacto
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1df309f3-92b6-4736-9023-73215a08c5cc.mkv
+#EXTINF:-1,Belleza Maldita (Bad Hair)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/58bc365d-f457-483e-9a54-7275edd9b0cf.mkv
+#EXTINF:-1,La funeraria
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/55194803-6d92-4aef-8661-e734f7e5cc04.mkv
+#EXTINF:-1,Sk8r Grrl
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f5e9e91e-72da-4d78-b494-a0cfa6da0212.mkv
+#EXTINF:-1,Space Jam: Nuevas Leyendas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a47ef933-d8e5-49f9-9526-7652e2182310.mkv
+#EXTINF:-1,The Evil Twin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7655e9f6-a72a-4402-9c27-8b5082094bfa.mkv
+#EXTINF:-1,Lazos perversos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7a1a5f4-df99-4355-a569-770f413b942f.mkv
+#EXTINF:-1,Leyendas de pasión
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/57653111-8fae-49f5-89c9-7cd40c80ecb0.mkv
+#EXTINF:-1,Millennium: Los hombres que no amaban a las mujeres
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/76c1fc96-75af-4abf-b1e1-48f55ce6e4b3.mkv
+#EXTINF:-1,Millennium 2: La chica que soñaba con una cerilla y un bidón de gasolina
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0368f581-1483-4683-9000-b1da8aeb9793.mkv
+#EXTINF:-1,El truco final (El prestigio)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/993f6f7e-f306-412e-8e40-c428e3676212.mkv
+#EXTINF:-1,El asesino de ángeles
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f6031251-efb0-4f1e-b665-76951e25cb72.mp4
+#EXTINF:-1,El crepúsculo de los dioses
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b28579a2-4399-4145-9223-0468178aceac.mp4
+#EXTINF:-1,El pueblo de los malditos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a80bb84c-d93d-4566-85db-371c47b56922.mp4
+#EXTINF:-1,El graduado
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2cfcfe65-1241-4a5f-9fa8-aeecb7761974.mp4
+#EXTINF:-1,El jardín del diablo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9ae6b370-6d95-47e1-8acf-6cf1b7693cfa.mp4
+#EXTINF:-1,El hombre con rayos X en los ojos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5e8d3488-9c3a-41fe-8453-17cd38ed9c7e.mp4
+#EXTINF:-1,El bruto
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1568655b-09cd-4f76-8b8b-6142f343f1ea.mp4
+#EXTINF:-1,A Dirty Carnival
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/22b75ca2-e779-49e1-98fe-42ba9c598560.mp4
+#EXTINF:-1,El escuadrón del diablo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fbba26d2-c51e-4833-8eb3-4857e03536fc.mp4
+#EXTINF:-1,27: El club de los Malditos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f835c942-e8aa-4604-9e94-72041837f69b.mp4
+#EXTINF:-1,Random Acts of Violence
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d590edae-d9b6-4b49-ba12-3ff459f8869a.mp4
+#EXTINF:-1,La vieja guardia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/47aed491-d717-49a8-8b9e-1670c3d50f3d.mp4
+#EXTINF:-1,The Iceman (El hombre de hielo)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/72589d6b-a9f3-40cf-a8bb-b7f91670518d.mp4
+#EXTINF:-1,Blade Runner 2049
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/509f06cf-26be-48df-9c82-b02c03217461.mp4
+#EXTINF:-1,Barely Lethal
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/570aab62-697f-4c4e-8d8d-19745e06f214.mp4
+#EXTINF:-1,Amigos muy íntimos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1f247c02-a310-453e-927d-74b658675779.mp4
+#EXTINF:-1,Lágrimas del sol
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/71b0b5a8-55b4-4ff6-9286-cd31bf3902bc.mp4
+#EXTINF:-1,El diablo sobre ruedas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/eb5a5a8c-6f6f-4eb9-9497-e0587fbd61f1.mp4
+#EXTINF:-1,Don Quijote cabalga de nuevo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ba3873ad-3127-4e8e-b805-dbad521aaf96.mkv
+#EXTINF:-1,El bombero atómico
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6f2e8ecc-485f-4b1a-90dc-2d8db7379926.mkv
+#EXTINF:-1,El sentido de un final
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b43a461-10a6-4529-8450-18df9ea44af7.mkv
+#EXTINF:-1,Buen viaje: aventuras psicodélicas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1a49a5cf-9f92-4a06-997c-1ee85d98d31a.mkv
+#EXTINF:-1,Schumacher
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1b2801ce-cd4d-451d-8494-3c521eacd102.mkv
+#EXTINF:-1,Cryptopia: Bitcoin, Blockchains y el Futuro de Internet
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/581062d5-f8f8-4b6f-ba73-6531a889694c.mkv
+#EXTINF:-1,De sicario a Youtuber
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/783e412f-21da-44a2-88cd-ffad18fa00b3.mkv
+#EXTINF:-1,Circo del Sol: Mundos Lejanos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1fd00037-a59e-4f7f-b5b0-a8773f13a744.mkv
+#EXTINF:-1,Tangos, tequilas, y algunas mentiras
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f951129a-c24c-4831-b5f6-6ac633d6f017.mp4
+#EXTINF:-1,Mi maestra se comio a mi amigo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/04f278d6-7dbf-4b2b-9bdf-ee2d60e4d8bd.mkv
+#EXTINF:-1,Guía de viaje hacia el amor
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/394c23d7-6d74-4938-bcd0-7954f842c82e.mkv
+#EXTINF:-1,S.O.S Mamis 2: Mosquita muerta
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/68be76e0-278d-4f6d-a2ba-887e65bc9a34.mp4
+#EXTINF:-1,Amor, sexo y 30 velitas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5ba74d37-f782-4e49-a030-134ebd2bdcd0.mp4
+#EXTINF:-1,Secretos del deporte: El salón de la infamia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/93abff12-c2db-40e7-9f9e-bd6a61851db0.mp4
+#EXTINF:-1,Freestyle
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0abedc3e-691d-4497-88f0-dfdb47212260.mp4
+#EXTINF:-1,El Conde
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6df2a422-1e4e-4b0d-b86d-4c54084a71c4.mp4
+#EXTINF:-1,Juicio al diablo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6de5e806-0516-4488-b1a5-615f50f84046.mkv
+#EXTINF:-1,Materia Gris (Gray Matter)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ca0037df-7664-4ada-9f81-b52e67d26bb2.mp4
+#EXTINF:-1,Todos los nombres de Dios
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e757ecc7-2dbe-4196-b03c-b138f3335140.mp4
+#EXTINF:-1,Cuando acecha la maldad
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1d034d12-4743-4a98-b658-1896b15c8dc4.mp4
+#EXTINF:-1,Beau tiene miedo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b96c1a7-fe91-46a7-a042-bbc3b0fe219e.mp4
+#EXTINF:-1,Anatomía de una caída
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/af97a80f-794b-4974-91cd-50865f203dde.mp4
+#EXTINF:-1,Concrete Utopia
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/77c5a90b-c011-472d-8961-42cb18dd4f98.mp4
+#EXTINF:-1,Batalla Aérea
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f374e9bc-ab68-4724-bb3a-5b2e0737521a.mp4
+#EXTINF:-1,Epic Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1eb3369f-aba3-4103-b13c-d50a5a137d36.mp4
+#EXTINF:-1,Disaster Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4d751a0c-dab4-48e4-88e0-d83e9b9791b7.mp4
+#EXTINF:-1,The Walking Deceased
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4ebe61d0-98c1-4aac-9a30-8dd16a0df808.mp4
+#EXTINF:-1,Los muertos del hambre
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f3912ac7-9b22-483c-8699-8f61018abf2d.mp4
+#EXTINF:-1,50 sombras muy oscuras
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f3702c7e-543c-42b8-8777-465ce013ebc3.mp4
+#EXTINF:-1,Caballeros, princesas y otras bestias
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/304580a8-a310-4ef1-a4ea-331d6ef94e58.mp4
+#EXTINF:-1,Híncame El Diente
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e9967fb1-04dd-410c-a337-5064bbfc4756.mp4
+#EXTINF:-1,No es otra estúpida película americana
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3eef7dd4-6295-4672-a719-190b95805bc3.mp4
+#EXTINF:-1,The Extendables
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/db743afe-fe22-4864-a686-8ef2b55ae8e0.mp4
+#EXTINF:-1,Casi 300
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e68d914b-1bec-4674-9cf2-b47a10f062d1.mp4
+#EXTINF:-1,Not Another Sci-Fi Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/00e2edee-230c-4c25-b175-b8c1243a8b9e.mp4
+#EXTINF:-1,Los juegos del resacón (Resaca mortal)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c0361d3-6714-4940-8af1-9539a662217a.mp4
+#EXTINF:-1,Spanish Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e48f11fc-1dfe-4ff9-b851-6b3be1cd3389.mp4
+#EXTINF:-1,Reposeída
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6de1b74a-1ba1-4ba8-82da-1319eec7ce5d.mp4
+#EXTINF:-1,Movie 43
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a9289252-2716-4fd7-bacf-f30644781dfc.mp4
+#EXTINF:-1,Date Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/268e52ed-def7-46e5-b7e0-dc4a95dff805.mp4
+#EXTINF:-1,Blancanieves y la leyenda del cazador
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/84e2535d-b153-4554-ba7a-d54b93a464bc.mp4
+#EXTINF:-1,Centurión
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/68c57d98-cbc7-4baa-b899-e03ac1c10c51.mkv
+#EXTINF:-1,La maldición de las brujas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c92d1fda-bf6e-4628-bc1c-c5ae2c155c3c.mkv
+#EXTINF:-1,Crónicas de la Tribu Fantasma
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/af4abed1-417e-420a-9d63-291f8ae96b40.mp4
+#EXTINF:-1,Bayonetta: Bloody Fate
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3faf6bbd-dfdb-4eb5-bfbc-a4ed4b65698f.mp4
+#EXTINF:-1,Zombi Child
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7aa9b843-c9da-4cf0-bf22-17151d4917e3.mp4
+#EXTINF:-1,Caperucita Roja
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/cfeed004-ddc1-4e39-a90f-b282c433c4f5.mp4
+#EXTINF:-1,Hunting the Legend
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b50b7028-2455-4685-a6de-379d3196f8eb.mp4
+#EXTINF:-1,Noche de miedo (Fright Night)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/82965208-e482-4ae2-95fd-10c219e4fada.mp4
+#EXTINF:-1,Noche de miedo 2: Sangre nueva
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c45c50bb-80b2-4d0d-8583-3219280ff2b2.mp4
+#EXTINF:-1,La hora del miedo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/96a567f4-34b6-4f89-96bf-50ad6da66ea0.mp4
+#EXTINF:-1,The Field Guide to Evil
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1ad9cc93-4f1f-4a59-b2f1-6ab83d25f494.mp4
+#EXTINF:-1,Memorias de un zombie adolescente
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/81fedeb6-3fe5-4a80-895b-0aa733996252.mp4
+#EXTINF:-1,Nadie vive
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4e580b74-4fb4-45fc-a645-b30f796ffc64.mp4
+#EXTINF:-1,Mischief Night (Noche macabra)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6f1a31bc-418e-46ee-acd8-98a3bf2ed561.mp4
+#EXTINF:-1,La isla de los muertos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/77ea5613-6a3a-4c23-83f2-8054773ac002.mp4
+#EXTINF:-1,La resistencia de los muertos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/950862a3-884d-47ca-b8a8-128617b5b45d.mp4
+#EXTINF:-1,Al interior
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f72e69d-83f6-4736-acbc-6c85d3f4a3d3.mp4
+#EXTINF:-1,Noturno
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f1035cb-6ebe-4635-9a3c-5b027e4da172.mp4
+#EXTINF:-1,Nunca digas su nombre
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1546b4ac-cf96-424d-b743-dd2420323ff0.mp4
+#EXTINF:-1,Ghost in the Shell
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d80ff5f4-308f-4cdf-b529-00137a017e59.mp4
+#EXTINF:-1,Akira
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f8e5fc0c-b922-43c9-a8a9-ca1f4856d3a4.mp4
+#EXTINF:-1,Buscando un amigo para el fin del mundo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/41904b07-6f8e-4533-b050-b53dcd7798df.mp4
+#EXTINF:-1,Zombies Party
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/989d898d-e403-40cb-9715-96c01a92d517.mp4
+#EXTINF:-1,La casa de los espíritus
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94e11995-853b-4b57-ba96-82049275c5c8.mp4
+#EXTINF:-1,Amor a medianoche
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/13ccc038-d068-4b07-8848-8183574959ba.mp4
+#EXTINF:-1,Mundo acuatico
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6dc056ad-2003-41aa-bc2a-bb39aa7d5c66.mp4
+#EXTINF:-1,Total Recall
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a521f9f8-ff16-493e-814c-1a1906c04eb4.mp4
+#EXTINF:-1,La niñera
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c50f253c-1b63-488f-8960-c0cec14b641b.mp4
+#EXTINF:-1,Bienvenidos al fin del mundo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0cfbdb39-fec9-45aa-8a0b-6fa20435c46b.mp4
+#EXTINF:-1,Amores Caníbales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6ed4b1b5-a532-4ee0-8d86-295409543a05.mp4
+#EXTINF:-1,Synchronicity
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6c5e031d-ef87-408b-8366-83a98e798e46.mp4
+#EXTINF:-1,Black Box
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/46e46fab-cae8-4f4c-b6f5-c5e42de1938b.mp4
+#EXTINF:-1,De amor y monstruos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6b26e125-5b5e-47f6-8b51-c49c9afb6e65.mp4
+#EXTINF:-1,Apocalipsis en Stonehenge
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e180037b-54bb-4ddf-bb40-b5abc02dbaf7.mp4
+#EXTINF:-1,Mentes poderosas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/962d4411-84a2-4558-8622-9b3e30f62449.mp4
+#EXTINF:-1,Nekrotronic
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/63ce6c60-0b6e-4699-b595-82b2f3ffca2f.mp4
+#EXTINF:-1,Alejandro Magno
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2b450659-c578-4900-bc15-412d130a2c5c.mp4
+#EXTINF:-1,Warcraft: El origen
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c7f1ccae-c484-42d5-a5e8-2bbccb7fd76a.mp4
+#EXTINF:-1,Caballeros, princesas y otras bestias
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/45901bd5-8895-4c09-91ba-4ea84d3b1e0b.mp4
+#EXTINF:-1,Desnúdate, rebélate
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c7d35ea1-3e5f-44e2-9755-dfff05afb776.mkv
+#EXTINF:-1,Asesinos sádicos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/78b08161-331f-4ec3-912f-f38006314af0.mkv
+#EXTINF:-1,La reina del mal
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ccc570b3-6494-48de-8628-71b06f5b3be3.mkv
+#EXTINF:-1,Extremadamente cruel, malvado y perverso
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/59e29432-0220-4849-8bbd-61a512c8a865.mkv
+#EXTINF:-1,Combate en el cielo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/da888d5f-1d74-4132-8c86-dd5c3731aca5.mp4
+#EXTINF:-1,#SexPact
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8e7cf5a8-23ab-4457-baca-2fb849a8ad0f.mp4
+#EXTINF:-1,10 días sin mamá
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/21b89c70-6340-4da3-9db1-a9427ebd2a6c.mkv
+#EXTINF:-1,#Placer femenino
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f8e7fbd-5211-486c-8e91-4b738e76d083.mp4
+#EXTINF:-1,¿Qué pasó el 11 de Septiembre?
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/79f1e8bd-c2fe-473b-a151-d82f45f2c8e7.mp4
+#EXTINF:-1,Ciberinfierno: La investigación que destapó el horror
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/933a07d3-e9ad-4ef7-a235-2a7fc5570a41.mp4
+#EXTINF:-1,Contagio en alta mar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bf4a780b-05ec-4612-a23b-c27ee2395392.mkv
+#EXTINF:-1,Secretos del deporte: El ladrón de señales
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b20fb71b-54d3-4268-a40f-96c1a9416a30.mp4
+#EXTINF:-1,Sin límites (Los casos del Departamento Q)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/048e5c5c-1395-4d2b-8d00-7541a25d4bf8.mp4
+#EXTINF:-1,Cómo robar un banco
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/409c70e5-b2bd-4e39-87c6-77d89d622598.mp4
+#EXTINF:-1,Mas allá del deporte
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9e7616a4-278f-4fcc-a1d6-e9ee653a2624.mp4
+#EXTINF:-1,Chicas malas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/12de9e22-9aff-44fd-bd59-10f9abe955ec.mp4
+#EXTINF:-1,Peaky Blinders S1 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e76aaa93-289a-458a-8a92-9f1cc3b890ec.mp4
+#EXTINF:-1,Peaky Blinders S1 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/32a000a8-668a-4c27-aaf7-7ef816f8a923.mp4
+#EXTINF:-1,Peaky Blinders S1 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ad344f7d-6a95-45a4-a691-4bf90ca41b9c.mp4
+#EXTINF:-1,Peaky Blinders S1 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a07fd8aa-c189-4931-881a-c7393fd01473.mp4
+#EXTINF:-1,Peaky Blinders S1 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d9fe7c1b-209b-4eeb-b310-0a137d857829.mp4
+#EXTINF:-1,Peaky Blinders S1 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1e85cc28-e72f-48fe-967c-ff47e5651149.mp4
+#EXTINF:-1,Peaky Blinders S2 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ca8c39b3-a82f-43c0-a788-820dfaf69f10.mp4
+#EXTINF:-1,Peaky Blinders S2 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/de9f1982-6d14-4e81-a7be-a411988ea52b.mp4
+#EXTINF:-1,Peaky Blinders S2 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9df7c8c1-a308-4a87-a2ae-952b6d141999.mp4
+#EXTINF:-1,Peaky Blinders S2 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e191a692-7c2e-4c30-9e9a-eb1ae11681b6.mp4
+#EXTINF:-1,Peaky Blinders S2 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d87a16f9-de4a-4f62-a675-db14e00cf456.mp4
+#EXTINF:-1,Peaky Blinders S2 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c3128cec-d059-4e30-b5f5-4264cc365b40.mp4
+#EXTINF:-1,Peaky Blinders S3 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/52ce3191-2acd-494b-9749-e81ea033d78c.mp4
+#EXTINF:-1,Peaky Blinders S3 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d3326bed-fe76-4cff-b294-443ac72f0504.mp4
+#EXTINF:-1,Peaky Blinders S3 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9fa4abef-4d94-42da-a43d-99e8d16c2b89.mp4
+#EXTINF:-1,Peaky Blinders S3 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5252866b-3b86-4ef6-95fd-ce5bb23b3926.mp4
+#EXTINF:-1,Peaky Blinders S3 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/38eaf952-eb45-4d44-8a0f-a48efa3d9c65.mp4
+#EXTINF:-1,Peaky Blinders S3 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d4d8f84d-94c2-480d-b448-f3278557452a.mp4
+#EXTINF:-1,Peaky Blinders S4 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f37a669c-552c-4172-ab2a-6b74c69663a4.mp4
+#EXTINF:-1,Peaky Blinders S4 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cd5efce0-1c1d-4023-b0b6-5457105690fb.mp4
+#EXTINF:-1,Peaky Blinders S4 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/acca2a49-0fe9-438c-b9f5-7f8abec5c890.mp4
+#EXTINF:-1,Peaky Blinders S4 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/accea87b-cfef-4494-832c-d444b16e15cc.mp4
+#EXTINF:-1,Peaky Blinders S4 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ee7c06b1-331c-4626-b280-41ef7a80e9a0.mp4
+#EXTINF:-1,Peaky Blinders S4 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/47e69f6d-4d66-4bab-be69-4adae96d6da3.mp4
+#EXTINF:-1,Peaky Blinders S5 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7747b0c3-c24c-443f-a4fd-b9af239c3157.mp4
+#EXTINF:-1,Peaky Blinders S5 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ea56f286-c944-4be7-b07e-7b5c58e10bee.mp4
+#EXTINF:-1,Peaky Blinders S5 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e95acd72-b548-4bcf-88a8-0c64f13596f6.mp4
+#EXTINF:-1,Peaky Blinders S5 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/30f8c8ee-d3d8-46cc-aa72-e7892de81817.mp4
+#EXTINF:-1,Peaky Blinders S5 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/84866e0a-60cc-4873-b41a-7bd2281f8482.mp4
+#EXTINF:-1,Peaky Blinders S5 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f18439a2-43d5-4897-9ad7-655a11042da2.mp4
+#EXTINF:-1,Peaky Blinders S6 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a3ce06b6-ec5d-4fe9-9d38-bf806f5f2437.mp4
+#EXTINF:-1,Peaky Blinders S6 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4423f210-d282-40b9-934e-a00e331435a1.mp4
+#EXTINF:-1,Peaky Blinders S6 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/90d1e40d-1f55-4d6b-a4dc-d508543bd5eb.mp4
+#EXTINF:-1,Peaky Blinders S6 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/173b3317-bbff-482d-950c-07ec708e32ff.mp4
+#EXTINF:-1,Peaky Blinders S6 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b34fc819-475d-4848-b4a3-62cd8ff45b35.mp4
+#EXTINF:-1,Peaky Blinders S6 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f0dc8737-eebf-475b-8ab0-d87204bbc252.mp4
+#EXTINF:-1,The Office S1 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2cdf1ffc-0fcb-4673-a97a-55807e60db5e.mp4
+#EXTINF:-1,The Office S1 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8f3a8a22-677a-49bd-97d8-ec17340a1898.mp4
+#EXTINF:-1,The Office S1 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7b3b5ff8-bc0c-43b0-a37d-562d77b0d28f.mp4
+#EXTINF:-1,The Office S1 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/54c0cfc2-276e-42ae-8916-56af4773377d.mp4
+#EXTINF:-1,The Office S1 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/987a759a-c32e-4124-8ef5-c4f5fdb8482f.mp4
+#EXTINF:-1,The Office S1 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0e57bd55-73c4-4e05-abe0-3f9f9fd871b2.mp4
+#EXTINF:-1,The Office S2 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bfc4f7b5-0448-42f9-a427-53fc492c9fdf.mp4
+#EXTINF:-1,The Office S2 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7e2fbcc2-8d7c-4052-8315-b3401ffe916f.mp4
+#EXTINF:-1,The Office S2 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/929e742c-e4d7-4349-8be4-f5f9ecd1b1f2.mp4
+#EXTINF:-1,The Office S2 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4a7cf795-ac54-4da2-adb9-30adc8978b7f.mp4
+#EXTINF:-1,The Office S2 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5738d5f6-561e-454a-af07-6d99ae55bd12.mp4
+#EXTINF:-1,The Office S2 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/95d5d864-aac0-440e-92bd-3995db464516.mp4
+#EXTINF:-1,The Office S2 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8e7b35e8-7dd3-4cba-b40f-d4819bff658d.mp4
+#EXTINF:-1,The Office S2 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6d99d52b-865c-474b-b69f-68fbdc5572b7.mp4
+#EXTINF:-1,The Office S2 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4e50f8ca-fada-4e09-b95e-871aeb125757.mp4
+#EXTINF:-1,The Office S2 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/047da843-e41e-4c54-8c39-b554a2ff6094.mp4
+#EXTINF:-1,The Office S2 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f5f420a3-b2da-4d61-86b8-f86f0464985f.mp4
+#EXTINF:-1,The Office S2 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a41339fd-daa8-4dab-ae35-9eda2cf43158.mp4
+#EXTINF:-1,The Office S2 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b0732c4e-e50a-4707-ba4c-e9b682609b10.mp4
+#EXTINF:-1,The Office S2 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f197472c-e6ce-42ac-8edd-770e3ce258ff.mp4
+#EXTINF:-1,The Office S2 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9677b47a-12d9-45c7-a95a-a97006c2f9ee.mp4
+#EXTINF:-1,The Office S2 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/698abab5-fceb-4d37-a469-f27a530ef17d.mp4
+#EXTINF:-1,The Office S2 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/376ad172-e87d-4703-9876-58c0259398fe.mp4
+#EXTINF:-1,The Office S2 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/15e0ae89-0f8f-41a1-b87d-87c66a87212c.mp4
+#EXTINF:-1,The Office S2 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/70ad8352-2acd-4965-bf7a-8ae4fc402458.mp4
+#EXTINF:-1,The Office S2 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fed6d44b-8015-4f94-946e-0d2c78f77f52.mp4
+#EXTINF:-1,The Office S2 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9373c973-73ad-4679-8241-b6872f711b00.mp4
+#EXTINF:-1,The Office S2 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2915abe0-2fa8-4541-9ddd-a4a556c043d4.mp4
+#EXTINF:-1,The Office S3 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bfa13954-815b-4bb8-bdfe-0b5c132483c9.mp4
+#EXTINF:-1,The Office S3 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b4a59254-ba3b-4b2f-8316-67506f5c5759.mp4
+#EXTINF:-1,The Office S3 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/af612d37-2e98-4e19-9a61-99daae67afe6.mp4
+#EXTINF:-1,The Office S3 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a97bf9ae-b743-4786-ab57-c19154d459c2.mp4
+#EXTINF:-1,The Office S3 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/991a16d8-8fc1-4323-8b15-2c290881c95d.mp4
+#EXTINF:-1,The Office S3 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9debd192-eb92-4901-9cf5-449741c86ad2.mp4
+#EXTINF:-1,The Office S3 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/19938660-c0e6-4b29-ad75-c40d7a86f8dd.mp4
+#EXTINF:-1,The Office S3 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4d8a05ec-f0bf-4eed-be32-23f5c34e53a9.mp4
+#EXTINF:-1,The Office S3 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/539c0025-c970-4484-9443-93b1d832847c.mp4
+#EXTINF:-1,The Office S3 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b7b461f0-60c5-4480-8a9f-8cb4f61a8276.mp4
+#EXTINF:-1,The Office S3 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d4e24514-fb32-4310-a8f0-8a11f040b2c5.mp4
+#EXTINF:-1,The Office S3 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e27f3f90-b476-46b6-998e-4ab2ccb8961d.mp4
+#EXTINF:-1,The Office S3 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/adf9eacc-e8a2-4d02-ae6d-e8e5592749aa.mp4
+#EXTINF:-1,The Office S3 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f5a649aa-acb7-498a-b813-f568288ef028.mp4
+#EXTINF:-1,The Office S3 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/17b981dd-0c11-4be3-b3af-e83e6b9c5ae7.mp4
+#EXTINF:-1,The Office S3 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fb7526ae-8e21-40b7-b0ee-0b13cad91ab5.mp4
+#EXTINF:-1,The Office S3 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/76d17f35-ad7a-45da-ab13-7af32acebe80.mp4
+#EXTINF:-1,The Office S3 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8a151ddb-c3c9-4863-840c-07f7d65a385a.mp4
+#EXTINF:-1,The Office S3 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2f625fdb-0ea8-404c-956a-57ff01894344.mp4
+#EXTINF:-1,The Office S3 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f68c0f7f-bfcf-4ae9-9ce7-919346935712.mp4
+#EXTINF:-1,The Office S3 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a1e83213-7040-4300-9f56-8c5efb0db602.mp4
+#EXTINF:-1,The Office S3 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/dbffecda-79b0-4b69-9d7b-dc662198094b.mp4
+#EXTINF:-1,The Office S3 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4dbb6cf7-494b-4cc9-a972-462994a31185.mp4
+#EXTINF:-1,The Office S4 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/860d05ac-d668-4ccc-8c99-68fe7be09422.mp4
+#EXTINF:-1,The Office S4 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5d080fb1-9752-4e47-9e48-eaf01ec06dfd.mp4
+#EXTINF:-1,The Office S4 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a46c3f2e-8d6f-4e36-a39c-faf3967a45af.mp4
+#EXTINF:-1,The Office S4 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/14596945-8658-43c4-b500-ec72244bd92f.mp4
+#EXTINF:-1,The Office S4 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/57c6f617-c0c6-42e8-9aa0-256df8abca78.mp4
+#EXTINF:-1,The Office S4 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/80625c5c-28b8-42e7-9d1b-10bae39f1117.mp4
+#EXTINF:-1,The Office S4 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0608bed5-6bcb-4408-ad3f-b2a330ef7c5b.mp4
+#EXTINF:-1,The Office S4 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/53674daf-10ac-4faf-b69b-2a7979b5fe7d.mp4
+#EXTINF:-1,The Office S4 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f02198cd-5f4b-4fc5-b000-5e4c223a7d82.mp4
+#EXTINF:-1,The Office S4 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/27808b68-c752-403d-919c-aa7a851a39b8.mp4
+#EXTINF:-1,The Office S4 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2cdefa92-c42a-4cfb-ab25-840af3969cb7.mp4
+#EXTINF:-1,The Office S4 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/19daa82c-e818-416b-8b81-81e96421730d.mp4
+#EXTINF:-1,The Office S4 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6eabd920-3d73-4636-8426-1400126aa0a0.mp4
+#EXTINF:-1,The Office S4 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/03703c26-830c-4d5a-b148-f18274908951.mp4
+#EXTINF:-1,The Office S5 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/38e11126-4ead-4479-ba49-a1ca4e447811.mp4
+#EXTINF:-1,The Office S5 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/84714c85-9197-4028-a007-76d03c753693.mp4
+#EXTINF:-1,The Office S5 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/62531712-6083-4199-a84b-7a9f614b61e6.mp4
+#EXTINF:-1,The Office S5 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9ac86992-e32d-4afc-86dc-540611839988.mp4
+#EXTINF:-1,The Office S5 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6377c33a-7ca0-4660-bf2a-124b93e2df6c.mp4
+#EXTINF:-1,The Office S5 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f5c7f556-41d2-4d1c-918b-77d2d24b0474.mp4
+#EXTINF:-1,The Office S5 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0868505a-1c86-4326-80e2-7c63a3d6ad63.mp4
+#EXTINF:-1,The Office S5 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1d03bf83-8ea6-4419-983e-d3659906b77f.mp4
+#EXTINF:-1,The Office S5 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e65b2d5f-389b-4c88-8a4e-a302d0b34253.mp4
+#EXTINF:-1,The Office S5 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ad5e8214-cf0d-44d2-b783-9761da5f74a9.mp4
+#EXTINF:-1,The Office S5 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c5654f2a-0062-4a9a-872d-2454d9cf29a4.mp4
+#EXTINF:-1,The Office S5 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0e29cf0c-5cec-45ba-99eb-c2296b3a2b21.mp4
+#EXTINF:-1,The Office S5 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f56987ab-7dd0-44b1-a9b4-1603b57eac0b.mp4
+#EXTINF:-1,The Office S5 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1c915723-a7bd-4b5b-a151-d5dd204020b6.mp4
+#EXTINF:-1,The Office S5 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/18c2d68e-d70d-4c6b-8f9c-7ae5270d6f2a.mp4
+#EXTINF:-1,The Office S5 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/20ab6802-cfdc-47da-9e1f-edcfb9a7c481.mp4
+#EXTINF:-1,The Office S5 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c6e8d9f0-3f9f-46f8-8044-21f1b1853083.mp4
+#EXTINF:-1,The Office S5 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6291b60f-2928-4c26-9225-f62e97965a71.mp4
+#EXTINF:-1,The Office S5 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/929de4f8-8c25-4998-a277-b04ff66533fd.mp4
+#EXTINF:-1,The Office S5 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9930b556-cb6c-4748-b58c-e38c03577765.mp4
+#EXTINF:-1,The Office S5 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/04652ee9-91e5-4f07-abe6-31bc5d47d1db.mp4
+#EXTINF:-1,The Office S5 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fa88e2b3-da3d-4215-924b-5a3817e1f9c4.mp4
+#EXTINF:-1,The Office S5 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c05f15de-9b6a-4119-9225-7784ce8393f2.mp4
+#EXTINF:-1,The Office S5 E24
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/82c1f16e-343b-40c2-b7f1-6a9116dab0d4.mp4
+#EXTINF:-1,The Office S5 E25
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c3002c79-12af-446e-b528-c91e73ec2725.mp4
+#EXTINF:-1,The Office S5 E26
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8d066de3-3ea5-41d1-bfec-8f350cadf877.mp4
+#EXTINF:-1,The Office S5 E27
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/36672a31-1f96-4166-8ef2-0720ac80ffe7.mp4
+#EXTINF:-1,The Office S5 E28
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/30ba3f7f-6baa-4a19-958f-41acd2ae07e8.mp4
+#EXTINF:-1,The Office S6 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/459f4786-6cee-4b4a-a153-ee54b2a066ab.mp4
+#EXTINF:-1,The Office S6 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4f13a5e4-196a-4634-bed5-e47fbfdea182.mp4
+#EXTINF:-1,The Office S6 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/25875064-7ef2-412c-a3a5-071e48deb723.mp4
+#EXTINF:-1,The Office S6 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2f0ee150-6244-4dcb-ab69-5dd2002c5b67.mp4
+#EXTINF:-1,The Office S6 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/93b88e84-8878-4f6a-a0c1-1c4ce751f2e6.mp4
+#EXTINF:-1,The Office S6 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7be73bec-c870-48df-88d4-165c8230567d.mp4
+#EXTINF:-1,The Office S6 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d3be060d-f1a5-4610-89cb-433f74cc6eaa.mp4
+#EXTINF:-1,The Office S6 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cea34f1a-9546-44fe-8dc6-e244d6e3ab44.mp4
+#EXTINF:-1,The Office S6 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d9675da0-bab4-4999-9c85-f7de48a72adf.mp4
+#EXTINF:-1,The Office S6 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/16607fcf-b913-4c09-88f9-605570ef4a12.mp4
+#EXTINF:-1,The Office S6 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e147c681-d97c-47f1-9d67-1f1071136d4c.mp4
+#EXTINF:-1,The Office S6 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ffe05342-e5b3-49b5-b714-3f693eab0a67.mp4
+#EXTINF:-1,The Office S6 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e98d5934-14f1-4a4f-a7d0-122ea21a26d9.mp4
+#EXTINF:-1,The Office S6 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0e71f508-7910-40fb-875a-944d3d84375b.mp4
+#EXTINF:-1,The Office S6 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cfec9e58-6b28-4dd1-bde7-8144e99d0681.mp4
+#EXTINF:-1,The Office S6 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/deba776f-1340-4462-a835-474b8ddd8380.mp4
+#EXTINF:-1,The Office S6 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/67d7d784-6d82-4a89-9a9a-2cea9701f3ee.mp4
+#EXTINF:-1,The Office S6 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b2221587-5d7a-42c8-8f0e-f0321c3fbe8f.mp4
+#EXTINF:-1,The Office S6 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c5417eca-a269-4428-a5a2-64650cbebcd4.mp4
+#EXTINF:-1,The Office S6 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/901a790a-9a73-4eff-a967-5453d6a4fad1.mp4
+#EXTINF:-1,The Office S6 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d9e19874-2fbf-4ffb-9751-ae3c26674d1d.mp4
+#EXTINF:-1,The Office S6 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f5eef37b-49a8-4983-a8d9-f50b45a12855.mp4
+#EXTINF:-1,The Office S6 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2920646b-be4c-467a-953a-38a733996834.mp4
+#EXTINF:-1,The Office S6 E24
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3951661c-46b8-4447-bd24-2d7c7cac773c.mp4
+#EXTINF:-1,The Office S6 E25
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/600af307-ecd1-4a04-9814-2af432800791.mp4
+#EXTINF:-1,The Office S6 E26
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/eb3ab4a5-a02a-4719-ac6e-b1658eb0b11f.mp4
+#EXTINF:-1,The Office S7 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/761dc6d4-2d92-4cdb-8df3-5c6c090e021d.mp4
+#EXTINF:-1,The Office S7 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e67849bb-b38e-4f7f-998d-1f8f3b371453.mp4
+#EXTINF:-1,The Office S7 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ad922f8e-3ec2-41cb-9b61-bab706a55e2f.mp4
+#EXTINF:-1,The Office S7 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/61058abb-c151-4c2c-8b1f-b378e82b9a35.mp4
+#EXTINF:-1,The Office S7 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d8fab7e9-d141-4823-a59c-460ac8c7b0b8.mp4
+#EXTINF:-1,The Office S7 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5435e80c-7eb2-419b-92f8-169525a3770e.mp4
+#EXTINF:-1,The Office S7 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4f9478d3-b161-48e8-a541-e31087904647.mp4
+#EXTINF:-1,The Office S7 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3f998c17-70f8-4946-8502-8104591dfbf4.mp4
+#EXTINF:-1,The Office S7 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d4ff405f-bad6-4897-9b48-173da8f5e46d.mp4
+#EXTINF:-1,The Office S7 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4a4fffe5-7bf4-4567-b188-e197f85097f2.mp4
+#EXTINF:-1,The Office S7 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/da7513c3-e17c-4faf-87ff-5a9ba9f1b9e2.mp4
+#EXTINF:-1,The Office S7 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/582f7df0-5bcd-4e9e-a55a-29cf2f7c0541.mp4
+#EXTINF:-1,The Office S7 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/faa27ba1-e736-45ee-a5bd-75787283b525.mp4
+#EXTINF:-1,The Office S7 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d198d220-05d2-4833-a3a0-a009e7bff918.mp4
+#EXTINF:-1,The Office S7 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b39c314f-be72-4e9a-b4c3-8c084038db18.mp4
+#EXTINF:-1,The Office S7 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4dc2d2ef-5234-489d-b556-8b5e8c3a8c41.mp4
+#EXTINF:-1,The Office S7 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/75dcfb9f-a515-4b75-8850-e776edbe041f.mp4
+#EXTINF:-1,The Office S7 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6580fdf3-25b1-4584-bd52-be0e5f81f8ee.mp4
+#EXTINF:-1,The Office S7 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/acf72ecf-db54-4868-af6c-2a4f452e4141.mp4
+#EXTINF:-1,The Office S7 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4dba8e02-b2de-4a44-bcfe-735f63fbda2f.mp4
+#EXTINF:-1,The Office S7 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f6a81673-362c-41f1-95eb-0d8ddd155595.mp4
+#EXTINF:-1,The Office S7 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cc71f2f9-eac8-4fd1-896e-0f0d1ea2bee4.mp4
+#EXTINF:-1,The Office S7 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c854ee58-98a9-41e2-8a79-234167f66936.mp4
+#EXTINF:-1,The Office S7 E24
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/91de3f8c-f70e-4246-863b-91ddf024b7e8.mp4
+#EXTINF:-1,The Office S7 E25
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/081e6063-994f-4e19-a9ae-0b5ee67c3a1d.mp4
+#EXTINF:-1,The Office S7 E26
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/eb49dfc2-33d5-408b-8bc4-0e27aa5648ed.mp4
+#EXTINF:-1,The Office S8 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4f4f7d67-ffd1-4a00-a43a-b9a72dcd1624.mp4
+#EXTINF:-1,The Office S8 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/58612b83-35d3-4cca-8cf3-48031b7b5243.mp4
+#EXTINF:-1,The Office S8 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/939fc14b-787f-4c76-af68-0f868f15293a.mp4
+#EXTINF:-1,The Office S8 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d5fa3f8e-acb5-42dc-93e6-d8f1bd700e4f.mp4
+#EXTINF:-1,The Office S8 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/922e0507-66db-43a1-90d4-209c566a4e7c.mp4
+#EXTINF:-1,The Office S8 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/56aa00dc-d7ae-4ce1-bad2-57874eb8e2fa.mp4
+#EXTINF:-1,The Office S8 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ea9d9d5e-91ef-4753-843d-4148128b8cd7.mp4
+#EXTINF:-1,The Office S8 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/63def089-27c2-4a66-9841-ebfd0fa82d7a.mp4
+#EXTINF:-1,The Office S8 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/54afde7c-64dc-43f4-a443-cede9aac0235.mp4
+#EXTINF:-1,The Office S8 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/053bd45f-6046-4522-adaf-fe008b74b6f5.mp4
+#EXTINF:-1,The Office S8 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/451c0f2e-b6ff-4f7a-be9f-bb272028026e.mp4
+#EXTINF:-1,The Office S8 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/233abffa-76b0-4dbe-b5c7-fc8b37547d91.mp4
+#EXTINF:-1,The Office S8 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cc0a9d9b-29fe-4e95-a1f4-450cd5ce04ae.mp4
+#EXTINF:-1,The Office S8 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/72d4940a-7daa-4fa1-b3e3-c2c737d649fb.mp4
+#EXTINF:-1,The Office S8 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a87f2718-40e9-4278-a741-ef805df1076b.mp4
+#EXTINF:-1,The Office S8 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3d12edcb-09ff-4c41-8b00-abb94a73cb5b.mp4
+#EXTINF:-1,The Office S8 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3557a6a1-e28d-4f08-8d22-c449491bd406.mp4
+#EXTINF:-1,The Office S8 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/52b9d6cb-7158-4346-b0be-1c5abd38680b.mp4
+#EXTINF:-1,The Office S8 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/77566c11-cd3d-47c6-8ebd-92ec6a8f51ba.mp4
+#EXTINF:-1,The Office S8 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f7f979a7-c826-46dd-84ac-bd9db122c378.mp4
+#EXTINF:-1,The Office S8 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3ac7b7c5-3b8a-4c3a-927e-64fb584bbd5e.mp4
+#EXTINF:-1,The Office S8 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/440e91f4-c433-401b-ba03-739dfb0bbadd.mp4
+#EXTINF:-1,The Office S8 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ec0bac63-4b18-4f0c-b5bb-386b048125c1.mp4
+#EXTINF:-1,The Office S8 E24
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0a0121cd-ba64-4192-a5f6-9e7f5e2c77fd.mp4
+#EXTINF:-1,The Office S9 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6ab7338f-bfa3-45b0-95dc-47c8cab7a1f8.mp4
+#EXTINF:-1,The Office S9 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1fae7a33-9d23-4145-86a5-ef6d865f524c.mp4
+#EXTINF:-1,The Office S9 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e578a772-f027-4c10-8e2d-d4b4776e064f.mp4
+#EXTINF:-1,The Office S9 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4fcf12c2-3c8d-4b1d-ba49-e309f06862ab.mp4
+#EXTINF:-1,The Office S9 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/14061835-0168-4e14-bc85-dd88c94ebc73.mp4
+#EXTINF:-1,The Office S9 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b6b7ea5e-3afd-4d0f-aaf0-2964bf9d098f.mp4
+#EXTINF:-1,The Office S9 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9a1f8b8b-5c48-4e37-a60c-1faa6a840e07.mp4
+#EXTINF:-1,The Office S9 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/013407a2-c3fb-4dd2-8404-1efc6fe9d9eb.mp4
+#EXTINF:-1,The Office S9 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/331c7b07-d64b-4cd7-b16c-56ade38b712e.mp4
+#EXTINF:-1,The Office S9 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/50f04da9-a141-4dea-a912-bc73b8b8c60b.mp4
+#EXTINF:-1,The Office S9 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/83d833c6-9e18-4008-aa9b-0e275ab526bf.mp4
+#EXTINF:-1,The Office S9 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/af5ccd78-ad21-4842-988d-90f3dd10f70d.mp4
+#EXTINF:-1,The Office S9 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1a7042af-8b6a-4d47-89d9-dbdc982505f4.mp4
+#EXTINF:-1,The Office S9 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/75afafbb-3eb3-4f2f-9d70-1f7e166c1a05.mp4
+#EXTINF:-1,The Office S9 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8eea2cd4-4312-4cb5-84c7-8a25e1521a8b.mp4
+#EXTINF:-1,The Office S9 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7e4db3b7-327c-4437-9927-85253e9a6dbf.mp4
+#EXTINF:-1,The Office S9 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fcc7aacc-7218-4cad-97f5-daf9e12c85f4.mp4
+#EXTINF:-1,The Office S9 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6e81f17b-9aa1-49b4-9add-5749c6cb2f4c.mp4
+#EXTINF:-1,The Office S9 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9c8b8e11-8ac9-4be7-9cfc-1984cdcef0de.mp4
+#EXTINF:-1,The Office S9 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7c01238f-548c-4b42-a9a7-05f50e17bbeb.mp4
+#EXTINF:-1,The Office S9 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/51f4660f-a09c-46ab-ab4b-ad5224ff66ad.mp4
+#EXTINF:-1,The Office S9 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4ee0febf-b8eb-466c-b5be-bd17dae19c0a.mp4
+#EXTINF:-1,The Office S9 E23
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/442d4a58-94a7-4a86-913f-5064837631f7.mp4
+#EXTINF:-1,Modern Family S9 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6ee2bcc9-db3a-467c-83d6-a28b0b520f28.mp4
+#EXTINF:-1,Modern Family S9 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ca7bc9b3-9041-4639-90f5-222c5e2730c5.mp4
+#EXTINF:-1,Modern Family S9 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f75a0627-ef0e-433e-a026-2538c0ea0caa.mp4
+#EXTINF:-1,Modern Family S9 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f255b750-73e7-4088-8340-41d725ea874f.mp4
+#EXTINF:-1,Modern Family S9 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/117e7f3d-b05a-46ef-8b18-76d632e884df.mp4
+#EXTINF:-1,Modern Family S9 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/89d825dd-a6ce-416a-8903-5bb13b882306.mp4
+#EXTINF:-1,Modern Family S9 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a8ee692b-7e6f-4887-8c93-f6b9301d4f02.mp4
+#EXTINF:-1,Modern Family S9 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/228326f6-581b-4d74-8bc7-eb91a4315b7c.mp4
+#EXTINF:-1,Modern Family S9 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f6e6a57f-6820-4702-bf1b-1a36dbe51dbb.mp4
+#EXTINF:-1,Modern Family S9 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4e613102-a877-4040-93c2-7cdd723f2a97.mp4
+#EXTINF:-1,Modern Family S9 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6c24d3be-cf9d-46d1-88ec-3c53f2522726.mp4
+#EXTINF:-1,Modern Family S9 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c625bebe-0df0-4abb-a4ec-2e5568d1752a.mp4
+#EXTINF:-1,Modern Family S9 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/76b28db9-c5fb-4852-b4af-da0b2560a63e.mp4
+#EXTINF:-1,Modern Family S9 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b477ff6b-183f-4e81-b65a-611c08d1c14d.mp4
+#EXTINF:-1,Modern Family S9 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d530ed5e-20a9-4d53-b462-1a01f929bf53.mp4
+#EXTINF:-1,Modern Family S9 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4f4ef7a3-57b5-4350-8ceb-604081cbcca0.mp4
+#EXTINF:-1,Modern Family S9 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/55400d07-1ba1-4dee-912a-b179d02daef3.mp4
+#EXTINF:-1,Modern Family S9 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b34d6263-0653-4973-b5bd-2252621de9cb.mp4
+#EXTINF:-1,Modern Family S9 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/18624bae-cb41-4698-8c65-ebfbf9aaf545.mp4
+#EXTINF:-1,Modern Family S9 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d8621dd4-83dc-4293-ac5b-1a5086f1ff16.mp4
+#EXTINF:-1,Modern Family S9 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0650ad94-0c0f-4c8f-ae3e-44753ac89187.mp4
+#EXTINF:-1,Modern Family S9 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/883941e8-9cad-47e2-b538-b97b73c716d5.mp4
+#EXTINF:-1,Modern Family S10 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/53015e0e-6da6-49eb-bbb0-3b4b38b91526.mp4
+#EXTINF:-1,Modern Family S10 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fb702fc1-6c85-4d28-ba69-74a8659c32ee.mp4
+#EXTINF:-1,Modern Family S10 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d08bf104-cce2-4c5d-a9a5-bac1871469e7.mp4
+#EXTINF:-1,Modern Family S10 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/771bb60e-cdd2-4c0a-84b2-22ed0b0a8600.mp4
+#EXTINF:-1,Modern Family S10 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3c790a8d-9008-4fa6-96a3-4183de1bee89.mp4
+#EXTINF:-1,Modern Family S10 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b269681f-8049-4399-948f-792991cae767.mp4
+#EXTINF:-1,Modern Family S10 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/30a6d13e-3c34-4d1f-86d1-a964d2ad2565.mp4
+#EXTINF:-1,Modern Family S10 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6c6b5c8e-b79c-41d1-8366-24e8917bed1f.mp4
+#EXTINF:-1,Modern Family S10 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c854779d-fa71-41d2-926d-c667b70a1266.mp4
+#EXTINF:-1,Modern Family S10 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/24e0c640-32b3-4c65-a120-99f95c0db891.mp4
+#EXTINF:-1,Modern Family S10 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6045913f-873b-4720-91e4-b3b435c88230.mp4
+#EXTINF:-1,Modern Family S10 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bd63c9ee-5334-4366-9fd9-4ec7c8afe849.mp4
+#EXTINF:-1,Modern Family S10 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d9210e5c-14c1-4fbf-93a5-c1269979f7c9.mp4
+#EXTINF:-1,Modern Family S10 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/998b0a9d-3ee7-47ed-9f81-f3a8d44db376.mp4
+#EXTINF:-1,Modern Family S10 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/34703eba-6efb-408f-8d20-7374089a0b5a.mp4
+#EXTINF:-1,Modern Family S10 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/29a5c840-ee7e-460b-905a-80a56e669714.mp4
+#EXTINF:-1,Modern Family S10 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/558ddfa2-d879-4a06-977e-04590edba92a.mp4
+#EXTINF:-1,Modern Family S10 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/24474509-45c5-45d8-9309-01ea4aa8a4be.mp4
+#EXTINF:-1,Modern Family S10 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/be9ee57a-2861-44e7-91f8-cab4781f07a1.mp4
+#EXTINF:-1,Modern Family S10 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/70165915-2a18-4510-8ed5-15f1b01b1d71.mp4
+#EXTINF:-1,Modern Family S10 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/949633ef-0d76-4aa9-a0fd-c0d022d5b6fc.mp4
+#EXTINF:-1,Modern Family S10 E22
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7a186d9b-7b28-4975-ad8e-8cf985264cca.mp4
+#EXTINF:-1,Modern Family S11 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fb2ae210-9526-4f6f-bcf2-d2b0ebec07b7.mp4
+#EXTINF:-1,Modern Family S11 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/13307359-835e-49b1-a4b3-402fce63fc5b.mp4
+#EXTINF:-1,Modern Family S11 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a95e2878-5c9d-401e-a35d-d951a467f6e4.mp4
+#EXTINF:-1,Modern Family S11 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/97553111-2fb3-4c50-8ddd-4918bcaff88c.mp4
+#EXTINF:-1,Modern Family S11 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/26aacb93-afc4-4ead-81cb-8f493e8659b3.mp4
+#EXTINF:-1,Modern Family S11 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0a180244-8e44-4e1a-9153-17faa2f54524.mp4
+#EXTINF:-1,Modern Family S11 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8f47506c-6671-4760-af8e-6c19924bb8fa.mp4
+#EXTINF:-1,Modern Family S11 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f41d9f65-992f-49a4-bd11-e5a7bae988de.mp4
+#EXTINF:-1,Modern Family S11 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e5c516d5-46cd-4114-8dfd-640693c3ad8e.mp4
+#EXTINF:-1,Modern Family S11 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e6808259-1785-4d4e-aa78-17a4ceafee08.mp4
+#EXTINF:-1,Modern Family S11 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f8071bbf-995d-4392-a98a-add9e03801d2.mp4
+#EXTINF:-1,Modern Family S11 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ddc1de70-7f1f-4118-b689-d9da39773fc3.mp4
+#EXTINF:-1,Modern Family S11 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5a88c006-b775-4f69-92b3-206857c68429.mp4
+#EXTINF:-1,Modern Family S11 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/19cb0021-0cdc-4f71-b60e-6c51082abbb6.mp4
+#EXTINF:-1,Modern Family S11 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/84dfd9a1-d49b-4066-a01c-a51f50662e24.mp4
+#EXTINF:-1,Modern Family S11 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5ec367d9-4a18-4a5b-8c1b-1b941217e055.mp4
+#EXTINF:-1,Modern Family S11 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/3524f8b6-f6fb-4f58-97da-412d338213c9.mp4
+#EXTINF:-1,Modern Family S11 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/95035e14-8621-4d08-b7dd-b4d81bedfa67.mp4
+#EXTINF:-1,Los Soprano S1 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b9a4378b-7a2e-44c0-acb4-6d82bb4e112a.mp4
+#EXTINF:-1,Los Soprano S1 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/291187a7-6025-4cc6-9209-fe4ae8a58bc0.mp4
+#EXTINF:-1,Los Soprano S1 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a6040342-dfa8-411c-b144-eb5280e1ec98.mp4
+#EXTINF:-1,Los Soprano S1 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bff3b73c-54b3-4803-a3ac-f5c12174725a.mp4
+#EXTINF:-1,Los Soprano S1 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/4a77a29b-a746-4e35-8233-c05c619af8e8.mp4
+#EXTINF:-1,Los Soprano S1 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7b44423d-2949-4e50-be6e-3de49b3d9444.mp4
+#EXTINF:-1,Los Soprano S1 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/be516bf1-4ccf-4d0c-a32b-32a8debb7fb4.mp4
+#EXTINF:-1,Los Soprano S1 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/575c81fd-3c7c-4ea4-8189-94c6d1f564e2.mp4
+#EXTINF:-1,Los Soprano S1 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bb8dd76a-4293-4d16-9a3a-d5066ccc80cf.mp4
+#EXTINF:-1,Los Soprano S1 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f86c05b1-5c8e-49b5-b106-ed1dc654593b.mp4
+#EXTINF:-1,Los Soprano S1 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b8787dd8-8489-4d98-86ce-a08149f08cb4.mp4
+#EXTINF:-1,Los Soprano S1 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/503c56b4-0cc3-4e46-b5d9-404685d22325.mp4
+#EXTINF:-1,Los Soprano S1 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f77980c1-bf6b-4178-a038-d34c31ca9b68.mp4
+#EXTINF:-1,Los Soprano S2 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9c384a38-aedb-4422-92fd-7a032d8b0345.mp4
+#EXTINF:-1,Los Soprano S2 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/937b36c3-ed8d-49fd-9870-286b6eb8a28d.mp4
+#EXTINF:-1,Los Soprano S2 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/652ce6bf-fe22-49fa-a745-bd2cbaa34673.mp4
+#EXTINF:-1,Los Soprano S2 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b7a17ce7-b8d7-48f4-ad69-6559b0beea36.mp4
+#EXTINF:-1,Los Soprano S2 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/46c4c143-d698-44ab-9dca-b7fad23e1a56.mp4
+#EXTINF:-1,Los Soprano S2 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/aab70967-250c-4de6-8bb1-4d771f74f095.mp4
+#EXTINF:-1,Los Soprano S2 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/65bb41fd-086d-4d9f-b54f-baf82c439f9e.mp4
+#EXTINF:-1,Los Soprano S2 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9e98b293-3cda-4715-840c-4a9e7724295c.mp4
+#EXTINF:-1,Los Soprano S2 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5bde8a1a-60ea-4a56-b1e4-494abef7f3e1.mp4
+#EXTINF:-1,Los Soprano S2 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1d6bc0cf-a38d-4543-acfc-4fa997c47fd3.mp4
+#EXTINF:-1,Los Soprano S2 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/eae40662-9468-46ea-b8a8-424f6a3b9238.mp4
+#EXTINF:-1,Los Soprano S2 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d448eb7f-f5dc-4694-a0dd-c25f1e5d3c7e.mp4
+#EXTINF:-1,Los Soprano S2 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/97b5e3ad-1c19-4c4e-acf2-034523df65f2.mp4
+#EXTINF:-1,Los Soprano S3 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b0030894-445d-47b3-8c7f-5df4d5e7d39a.mp4
+#EXTINF:-1,Los Soprano S3 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e89d910b-91e8-4956-8cec-39d311965f8c.mp4
+#EXTINF:-1,Los Soprano S3 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e9f8012c-4e76-43d8-81bf-fd1dd5e0b9bf.mp4
+#EXTINF:-1,Los Soprano S3 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/50ec8986-b368-4c7c-8de6-feac972b90e5.mp4
+#EXTINF:-1,Los Soprano S3 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d6b9e435-5b21-4859-a66e-50acf7d6517c.mp4
+#EXTINF:-1,Los Soprano S3 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/85dbeb28-3d1b-4c7e-9b6d-e11361b8f08a.mp4
+#EXTINF:-1,Los Soprano S3 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/0d2b4140-e956-407c-a231-b884185a6dad.mp4
+#EXTINF:-1,Los Soprano S3 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7683701f-2ec3-44e1-a52e-1f47419b0d02.mp4
+#EXTINF:-1,Los Soprano S3 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a5eab7db-b87d-4d83-9a47-32b10dcd30f9.mp4
+#EXTINF:-1,Los Soprano S3 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/60b44321-c296-416e-9b6c-75f600739dff.mp4
+#EXTINF:-1,Los Soprano S3 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/099324d2-3a3e-4574-acca-34c0751266e2.mp4
+#EXTINF:-1,Los Soprano S3 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/91ca5eed-99cd-42b1-9dc5-1f20d93de047.mp4
+#EXTINF:-1,Los Soprano S3 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/959f54fb-3d40-47d1-9fd4-6d6e92ffedd8.mp4
+#EXTINF:-1,Los Soprano S4 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/34240335-0066-4ef6-b868-f5617e0640f7.mp4
+#EXTINF:-1,Los Soprano S4 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7ba6ea99-320f-4f72-a2ce-8b0c4da93668.mp4
+#EXTINF:-1,Los Soprano S4 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/eee9d1b0-c48b-4140-a0c9-f258f6f3fceb.mp4
+#EXTINF:-1,Los Soprano S4 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/178a4547-1575-4b65-b466-161296216ce4.mp4
+#EXTINF:-1,Los Soprano S4 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ca6d4898-837a-4720-9322-517e2fd775d0.mp4
+#EXTINF:-1,Los Soprano S4 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bf1eddab-829b-423b-9107-e0190faf1ac9.mp4
+#EXTINF:-1,Los Soprano S4 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/71a1d4cf-8eac-4d8e-abbf-2d72cc0018aa.mp4
+#EXTINF:-1,Los Soprano S4 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/87e9b350-70f8-4daa-b8d5-f293dae454f4.mp4
+#EXTINF:-1,Los Soprano S4 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a16be090-0f2e-4853-966f-bc23d86e0ff1.mp4
+#EXTINF:-1,Los Soprano S4 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b6ff4535-93bf-4483-a738-27fbe7719aa0.mp4
+#EXTINF:-1,Los Soprano S4 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7fef1409-56a4-4b8c-bf48-dccbf7f2b07e.mp4
+#EXTINF:-1,Los Soprano S4 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6312e829-72e1-4dc2-9ab4-db764d0fd865.mp4
+#EXTINF:-1,Los Soprano S4 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/cb927513-9ddf-43cf-ae21-ce8f516e213b.mp4
+#EXTINF:-1,Los Soprano S5 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6ec3dd18-d8b9-46f2-94ae-64949db8a485.mp4
+#EXTINF:-1,Los Soprano S5 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/478ba4f1-60da-4b1b-934f-c3d190c1dcb9.mp4
+#EXTINF:-1,Los Soprano S5 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2edc0317-ba2e-4e09-85d5-6fd0306c22ca.mp4
+#EXTINF:-1,Los Soprano S5 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bb9d8bf6-0207-4031-a4cc-a1693dc99f17.mp4
+#EXTINF:-1,Los Soprano S5 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d8f4a354-084d-4909-8e46-0a3b80e5c7b7.mp4
+#EXTINF:-1,Los Soprano S5 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2c173435-9734-4d1c-adf4-9a45177b5afa.mp4
+#EXTINF:-1,Los Soprano S5 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c0560234-1128-4fa8-9a0f-bb04027c140b.mp4
+#EXTINF:-1,Los Soprano S5 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f794e76d-b837-4fdc-9b92-7669f1f9536b.mp4
+#EXTINF:-1,Los Soprano S5 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a5ea360d-599c-4f40-9a61-2dc98d869920.mp4
+#EXTINF:-1,Los Soprano S5 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a12338e3-6da5-4cf6-9cdf-f3429bb26f85.mp4
+#EXTINF:-1,Los Soprano S5 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a995965b-5b0f-423e-9b5c-6786f1d3c715.mp4
+#EXTINF:-1,Los Soprano S5 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7d13d94b-3681-4cd6-8810-d916a173db79.mp4
+#EXTINF:-1,Los Soprano S5 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/5abe7800-bd39-45bf-b35f-fa75605719e7.mp4
+#EXTINF:-1,Los Soprano S6 E1
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a610080a-e9ce-4b89-b2b1-cf9e40faf626.mp4
+#EXTINF:-1,Los Soprano S6 E2
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/72b310ac-dcd0-428f-9dd4-8af0d9585d9f.mp4
+#EXTINF:-1,Los Soprano S6 E3
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6e62f5c1-08c5-4a65-9914-bf1b95f34617.mp4
+#EXTINF:-1,Los Soprano S6 E4
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/571b3281-22a0-425f-b954-fb2b2ab38682.mp4
+#EXTINF:-1,Los Soprano S6 E5
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1b532d44-274d-44dd-a778-1a8bdad13e08.mp4
+#EXTINF:-1,Los Soprano S6 E6
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1e6433aa-5281-42ae-b56f-7e3609fcb518.mp4
+#EXTINF:-1,Los Soprano S6 E7
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/1bc3726f-5016-4a4f-904d-28424c724688.mp4
+#EXTINF:-1,Los Soprano S6 E8
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f786dd9c-e557-4fa2-9579-a757a9160f82.mp4
+#EXTINF:-1,Los Soprano S6 E9
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/10e94261-9502-47f6-8ec1-cc23ac9ce5ee.mp4
+#EXTINF:-1,Los Soprano S6 E10
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c93b878e-b31d-4652-98eb-26fc5765ef58.mp4
+#EXTINF:-1,Los Soprano S6 E11
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e1ef20a6-41df-4e9c-99fe-9742158732d3.mp4
+#EXTINF:-1,Los Soprano S6 E12
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/acb62356-e3fe-4f4a-b04d-2c699743f78f.mp4
+#EXTINF:-1,Los Soprano S6 E13
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f829e689-8f70-4d75-852e-6e0a5fa2de93.mp4
+#EXTINF:-1,Los Soprano S6 E14
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/ea74c825-7bbf-4211-a326-5f6351071873.mp4
+#EXTINF:-1,Los Soprano S6 E15
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c4602bd5-f3b5-488b-a7cd-03be98861163.mp4
+#EXTINF:-1,Los Soprano S6 E16
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b721f10e-1332-4437-b9d2-d029c4e6d867.mp4
+#EXTINF:-1,Los Soprano S6 E17
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/14670779-ce2c-4e4b-84f5-5f9e11800afc.mp4
+#EXTINF:-1,Los Soprano S6 E18
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7a436fc0-4dae-49e7-bccc-57ee12a96131.mp4
+#EXTINF:-1,Los Soprano S6 E19
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c023b5bf-1b2c-4990-86cb-5943386f743e.mp4
+#EXTINF:-1,Los Soprano S6 E20
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/69ed64e2-ef1c-48ee-bce0-f948ce6d95b8.mp4
+#EXTINF:-1,Los Soprano S6 E21
+http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/55af255a-f574-4e7d-9927-fea4069b9f6c.mp4
+#EXTINF:-1, TIBURONES EN PARIS
+https://tvnettv.space/contenido/peliculas/Under%20Paris/Under.Paris.2024.1080p.WEBRip.lat.mp4
+#EXTINF:-1, SOMBRAS SINIESTRAS
+https://tvnettv.space/contenido/peliculas/Sombras%20siniestras/Sombras%20siniestras%20(2021)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, SQUALER
+https://tvnettv.space/contenido/peliculas/Squealer/Squealer%20(2023)%201080p%20WEB-Rip%20Latino.mp4
+#EXTINF:-1, VIAJE NOCTURNO
+https://tvnettv.space/contenido/peliculas/Un%20viaje%20hacia%20la%20noche/Un%20viaje%20hacia%20la%20noche%20(2021)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1, STOPMOTION
+https://tvnettv.space/contenido/peliculas/Stopmotion/Stopmotion.2023.1080p.WEBRip.1400MB.mp4
+#EXTINF:-1, VISITANTE DE INVIERNO
+https://tvnettv.space/contenido/peliculas/Visitante%20de%20invierno/Visitante.de.invierno.2008.WEB-DL.mp4
+#EXTINF:-1, ANTES DE CONOCERNOS
+https://tvnettv.space/contenido/peliculas/Which%20Brings%20Me%20to%20You/Antes%20De%20Conocernos%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, EL FAVOR
+https://tvnettv.space/contenido/peliculas/el%20favor/elf4v0r.2023.1080p.Cast.mp4
+#EXTINF:-1, VETERANO
+https://tvnettv.space/contenido/peliculas/The%20Last%20Rifleman/El%20%c3%baltimo%20veterano%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, EL GRAN CAMBIO
+https://tvnettv.space/contenido/peliculas/The%20Shift%20El%20gran%20cambio/The%20Shift%20El%20gran%20cambio%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, EXTRANOS
+https://tvnettv.space/contenido/peliculas/The%20Strangers%20Chapter%201/Los%20extra%c3%b1os%20Cap%c3%adtulo%201%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1, FE VS ATEO
+https://tvnettv.space/contenido/peliculas/The%20Sunset%20Limited/The.Sunset.Limited.2011.1080p.BluRay.Latino.mp4
+#EXTINF:-1, SINDROME
+https://tvnettv.space/contenido/peliculas/The%20Syndrome/The.Syndrome.2021.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1, ANIME PRINCESA
+https://tvnettv.space/contenido/peliculas/The%20Tale%20of%20the%20Princess%20Kaguya/The.Tale.of.the.Princess.Kaguya.2013.1080p.BluRay.lat.mp4
+#EXTINF:-1, NAHIR
+https://tvnettv.space/contenido/peliculas/Nahir/Nahir%20(2024)%20WEB-DL%20%201080p%20Latino.mp4
+#EXTINF:-1, AMOR EN VENTA
+https://tvnettv.space/contenido/peliculas/Amor%20en%20Venta/Amor%20en%20Venta%20(2021)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, ANNIE
+https://tvnettv.space/contenido/peliculas/Annie%20Hall/Annie.Hall.1977.1080p.BluRay.lat.mp4
+#EXTINF:-1, GODZILLA
+https://tvnettv.space/contenido/peliculas/Godzilla%20Minus%20One/Godzilla.Minus.One.2023.1080p.BluRay.LAT.mp4
+#EXTINF:-1, GODZILLA VS KONG
+https://tvnettv.space/contenido/peliculas/Godzilla%20x%20Kong%20The%20New%20Empire/Godzilla.x.Kong.The.New.Empire.2024.1080p.WEBRip.Dual.Latino.mp4 
+#EXTINF:-1, HABIA UNA VEZ EN MEXICO
+https://tvnettv.space/contenido/peliculas/Once%20Upon%20A%20Time%20In%20Mexico/9888.Once.Upon.A.Time.In.Mexico.2003.1080p.BluRay.Dual.Latino.mp4
+#EXTINF:-1, LAZOS DE VIDA
+https://tvnettv.space/contenido/peliculas/One%20Life/Lazos%20de%20vida%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, BIONIC
+https://tvnettv.space/contenido/peliculas/Bionic/Bionic.2024.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1, LOTOMAN
+https://tvnettv.space/contenido/peliculas/Lotoman/Lotoman.2011.WEB-DL,lat.mp4
+#EXTINF:-1, BURGA
+https://tvnettv.space/contenido/peliculas/Burga/Burga%20(2023)%20WEB-DL%20LIGERO%201080p%20lat.mp4
+#EXTINF:-1, COMPLICES DEL ENGAÑO
+https://tvnettv.space/contenido/peliculas/C%c3%b3mplices%20del%20enga%c3%b1o/C%c3%b3mplices%20del%20enga%c3%b1o%20(2023)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1, CAUTIVA
+https://tvnettv.space/contenido/peliculas/Cautiva/Cautiva.2003.1080p.WEB-DL.lat.mp4
+#EXTINF:-1, CENIZA
+https://tvnettv.space/contenido/peliculas/Ceniza/Ceniza%20(2024)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1, CHALLENGERS
+https://tvnettv.space/contenido/peliculas/Challengers/Challengers.2024.1080p.WEBRip.lat.mp4
+#EXTINF:-1, PUNTO SIN RETORNO
+https://tvnettv.space/contenido/peliculas/Point%20Of%20No%20Return/Point%20Of%20No%20Return%20(1993).720.bdrip.lat.mp4
+#EXTINF:-1, COSMIC
+https://tvnettv.space/contenido/peliculas/Cosmic%20Dawn/Amanecer%20C%c3%b3smico%20(2022)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, CREW
+https://tvnettv.space/contenido/peliculas/Crew/Crew%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1, LOVE LIES BLEEDING
+https://tvnettv.space/contenido/peliculas/Love%20Lies%20Bleeding/Love.Lies.Bleeding.2024.1080p.BluRay.Dual.Latino.mp4
+#EXTINF:-1, ESPALDAS AL MUNDO
+https://tvnettv.space/contenido/peliculas/De%20Espaldas%20al%20Mundo/De%20Espaldas%20al%20Mundo%20(2022)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, PRESA
+https://tvnettv.space/contenido/peliculas/Prey/Presa%20(2024)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, ULTIMA ESPERANZA 
+https://tvnettv.space/contenido/peliculas/M%20%20La%20Ultima%20Esperanza/M%20%e2%80%93%20La%20%c3%9altima%20Esperanza%20(2023)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1, EILEN
+https://tvnettv.space/contenido/peliculas/Eileen/Eileen%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, Quien Se Quedará con Masha
+https://tvnettv.space/contenido/peliculas/Quien%20Se%20Quedar%c3%a1%20con%20Masha/%c2%bfQui%c3%a9n%20Se%20Quedar%c3%a1%20con%20Masha%20(2021)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, CENTAVOS
+https://tvnettv.space/contenido/peliculas/El%20Poder%20de%20los%20Centavos/El%20Poder%20de%20los%20Centavos%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, EL SALARIO DEL MIEDO
+https://tvnettv.space/contenido/peliculas/El%20salario%20del%20miedo/El%20salario%20del%20miedo%20(2024)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1, NOMBRE DE TIERRA
+https://tvnettv.space/contenido/peliculas/En%20nombre%20de%20la%20tierra/En%20nombre%20de%20la%20tierra%20(2023)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, MAQUINISTA
+https://tvnettv.space/contenido/peliculas/Entre%20la%20vie%20et%20la%20mort/El%20Maquinista%20(2022)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, MEDIDAS EXTREMAS
+https://tvnettv.space/contenido/peliculas/Medidias%20extremas/Medidias%20extremas%20(2022)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1, MIDNIGHT 
+https://tvnettv.space/contenido/peliculas/Midnight%20Peepshow/Midnight.Peepshow.2022.1080p.WEBRip.mp4
+#EXTINF:-1, MIENTRAS DUERMES
+https://tvnettv.space/contenido/peliculas/Mientras%20Duermes/Mientras%20Duermes%20(2021)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, PACIENTE
+https://tvnettv.space/contenido/peliculas/Klienten/El%20%c3%baltimo%20paciente%20(2022)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, LAST NIGHT
+https://tvnettv.space/contenido/peliculas/La%20%c3%9altima%20Noche%20en%20Pacerville/La%20%c3%9altima%20Noche%20en%20Pacerville%20(2022)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1, IDAHO
+https://tvnettv.space/contenido/peliculas/My%20Own%20Private%20Idaho/My.Own.Private.Idaho.1991.1080p.BluRay.lat.mp4
+#EXTINF:-1, ROMEO Y JULIETA
+https://tvnettv.space/contenido/peliculas/Romeo%20and%20Juliet/Romeo.and.Juliet.1996.1080p.BluRay.Dual.Latino%20(1).mp4
