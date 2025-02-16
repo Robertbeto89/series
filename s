@@ -3,50 +3,6 @@
 
 #EXTINF:-1, SEX Y SEN
 https://tvnettv.space/contenido/peliculas/Sex%20And%20Zen%20II/6080.Sex.And.Zen.II.1996.1080p.BluRay.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E3
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/c97a26b7-57d3-4d9f-b7cf-79f63e54d22f.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E4
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/24ee2490-6cb9-4a89-8062-1ae7877b4a5c.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E5
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/920515c0-738f-4394-bda8-1075e9fa1aa5.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E6
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/bc507acc-9df6-4e16-abb2-60f3844f29ef.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E7
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d93f4779-b3b7-4c8e-9ee1-1c20e4084480.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E8
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f0942c56-1ea4-4882-977f-fc68a135d0db.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E9
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2c9e856e-aa7c-453d-a9ba-ec00790de7f8.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E10
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/31031233-b620-4a08-9751-0143c453059f.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E11
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fa1c512a-d2f8-4aef-8e67-705e0ba2e8c4.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E12
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/6476be11-2289-4cdd-9e3c-408bbf8e1400.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E13
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/88d343c0-db7d-47c0-ba5c-1c4df72871d8.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E14
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/9a4b64ed-5bd6-4d90-98c0-15cb05e39b0f.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E15
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/45534516-5b34-4683-a479-204ddcb39650.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E16
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e4b63aef-7ed4-40c6-b933-d733e56378b5.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E17
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7bb1f821-17d7-496d-b270-6bce2af2ffe0.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E18
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/e727718d-9cda-4d0d-8607-4a7e3a0248c8.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E19
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/2df2d268-182a-4fed-bd58-3e24ca9e1c06.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E20
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/663ab582-f888-4412-a83b-45d52654618e.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E21
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/f12c71e1-18ee-4f3a-bc8e-86f37cbb463a.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E22
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/fc0f4212-b5a9-4298-b1f8-e838ea25813b.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E23
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/a0ec9104-afe0-435a-9441-68aa864cc05e.mp4
-#EXTINF:-1, Dos Hombres y Medio S9 E24
-http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/d7c011ea-02ae-49b6-aacc-c6e02c30ea69.mp4
 #EXTINF:-1, Dos Hombres y Medio S10 E1
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b6c16619-07b9-4276-89bd-c35160501ab7.mp4
 #EXTINF:-1, Dos Hombres y Medio S10 E2
@@ -169,6 +125,176 @@ http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/7cd28665-bfe1-4728-955a
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/b525197e-31e9-41cf-84ac-fade116a4f4b.mp4
 #EXTINF:-1, Dos Hombres y Medio S12 E16
 http://daleplay.club:8080/series/gjaramillo/Gjaramillo78/8e7abbe6-a7f7-4fbe-99b0-404ef36b2fea.mp4 
+#EXTINF:-1,Rebel Moon   Chapter Two: Curse of Forgiveness
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e952fcd8-6af6-4be7-aec8-f7b0611d2aca.mp4
+#EXTINF:-1,Rebel Moon   Chapter One: Chalice of Blood
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/96f49c05-5bce-4cb6-8790-b1213726b310.mp4
+#EXTINF:-1,Tenet
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ee05398f-40e2-46f4-8c3d-28159a3a5806.mp4
+#EXTINF:-1,Ahora me ves 3
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/98f565bf-537f-4eb3-8d74-5056a3fd5036.mp4
+#EXTINF:-1,The Mechanic
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/133dfa3b-7d9e-4709-a1b4-3169bfff19bb.mp4
+#EXTINF:-1,Taoist Monster Hunter
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1355db21-6b35-4774-bfdc-18f96745ce81.mp4
+#EXTINF:-1,Prison Break: Evasión final
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a7d715c7-091f-4af6-804d-f68816e8e7cc.mp4
+#EXTINF:-1,Saw 5
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/89602076-db2a-41e8-9cf3-3f3388f0c265.mp4
+#EXTINF:-1,Saw 6
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/43a3809e-460f-4af8-86dd-0fd7fc433bb3.mp4
+#EXTINF:-1,Saw 7
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8b20f78c-b22d-4452-87b5-b51d522b0170.mp4
+#EXTINF:-1,Saw 8
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/53756f0c-a45e-40fd-b0cf-7bc993b32b71.mp4
+#EXTINF:-1,Saw 9: Espiral
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/97e3f597-d0a6-4a4e-825f-c2be10fbacf4.mp4
+#EXTINF:-1,Saw X: El juego del miedo (2023)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3316efa2-c66b-47eb-bf77-830f21c74433.mp4
+#EXTINF:-1,Impuratus - La Confesión Del Diablo (2022).mp4
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b578ca44-0541-42a6-83f3-2a57922f2807.mp4
+#EXTINF:-1,La forma del miedo (2022)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d0f74c72-0662-4346-a3a7-f782001bca61.mp4
+#EXTINF:-1,La melodía del diablo (2023)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/edd3c741-d4fa-4b03-8759-b8ef6ea25f74.mp4
+#EXTINF:-1,Megalomaniac (2023)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d9add1b8-170d-43e2-963c-a9d9758f5930.mp4
+#EXTINF:-1,Despues del fin del mundo (2022)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c01a84f7-40f3-44b9-b0d8-4fbdea134c4d.mp4
+#EXTINF:-1,No hables con extraños (2021)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2edc73fe-186c-4cca-ba97-d9cee7514572.mp4
+#EXTINF:-1,La delgada línea roja (1998)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/59156976-b5e4-434f-a415-2639f6f09ce1.mp4
+#EXTINF:-1,Uncharted: Fuera del mapa (2022)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/31837e42-5522-413f-ab6c-69729d80089a.mkv
+#EXTINF:-1,El monstruo dentro de mí (2023)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c4e4996c-67a8-46fd-871b-07c0e691e846.mkv
+#EXTINF:-1,El Último Zombi (2020).mp4
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a9798cb0-ea53-4884-93f0-b695747ac91f.mp4
+#EXTINF:-1,Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3e71654f-83ee-44ab-8af0-d93db1e8c43d.mp4
+#EXTINF:-1,A él no le gustas tanto (2009)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2f378c8d-53a5-4374-84b6-734141e193d9.mkv
+#EXTINF:-1,Joker 2: Folie à Deux
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/07e8dcb0-fd8f-435e-9d64-b2b1edea2836.mp4
+#EXTINF:-1,El Aviador
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1f5d3319-d14e-4c0f-b87a-8cf0cd84c206.mp4
+#EXTINF:-1,VHS: Las crónicas del miedo 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5d8b5d5e-9cfa-4732-9cb2-1242fa978b99.mp4
+#EXTINF:-1,Stopmotion (dual)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/182cde50-e672-42e8-b1cf-a8c4e63a204e.mkv
+#EXTINF:-1,Bill y Ted: La Magnífica Aventura (1989)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0a5b9c30-2e31-41b7-a6c8-bafd10f157e6.mp4
+#EXTINF:-1,Impacto profundo (1998)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f74f7ee-956a-4767-8c0b-fe90f01c916b.mp4
+#EXTINF:-1,Striptease (1996)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/52990374-9d70-4185-8c6b-584a5ff2573a.mp4
+#EXTINF:-1,Rocketeer: El hombre cohete (1991)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a8823845-25cb-4424-bd47-ffee209fde98.mp4
+#EXTINF:-1,No es Otra Película de Amor
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/40da5918-bf06-45ad-98d1-f16e7ac1238d.mp4
+#EXTINF:-1,Una Película Épica
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/23c7579b-9bb1-439e-9bcb-9e16db537822.mp4
+#EXTINF:-1,Parody movie - 13 - Fifty Shades of Black - Cincuenta sombras negras - 2016.mp4
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fca4cfd1-2916-4892-8c68-91ae6a9cedb2.mp4
+#EXTINF:-1,Una loca aventura medieval
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7effe977-e37b-4bd3-9c39-d8acd3fd0329.mp4
+#EXTINF:-1,Superhéroes: La película
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/cfe0131c-494f-44ce-a4f8-9330eb121c36.mp4
+#EXTINF:-1,Virgen y culpable a los 41
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ccc762e6-37b9-42cf-9296-8ea1fb19ef16.mp4
+#EXTINF:-1,Los Juegos de la Resaca
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a6255849-0fae-4b56-b44b-bd0558997f99.mp4
+#EXTINF:-1,Los muertos del hambre
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/938e25f2-4bf3-4959-ae15-c62802ce73c8.mp4
+#EXTINF:-1,Un desastre de película
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1b0a6736-aa40-4761-8f0f-82803879b950.mp4
+#EXTINF:-1,The Walking Deceased
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bb0048dd-722c-40ba-afb2-e2e1c40d8cb4.mp4
+#EXTINF:-1,Spanish Movie
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d93b9769-45c2-4e98-a443-4594870f7781.mp4
+#EXTINF:-1,Una loca película de vampiros
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b4ff00d2-02cf-406b-bf80-4955ffcd3f6b.mp4
+#EXTINF:-1,Super rápidos y mega furiosos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6deaa7c4-5923-43cf-a3a2-f447452dcfcb.mp4
+#EXTINF:-1,¿Y dónde está el exorcista?
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/04857a92-6fe8-4985-882e-a0edd528436e.mp4
+#EXTINF:-1,No es otra tonta película americana
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b4c2fec0-989e-44ce-ac19-a376fa3482a3.mp4
+#EXTINF:-1,Proyecto 43
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9eeee4b3-a9fe-47e5-9dd0-36d1b092011c.mp4
+#EXTINF:-1,No es otra tonta película americana
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1ed2ea2d-2cea-4eab-9c1d-aea31444d9ad.mp4
+#EXTINF:-1,En busca de venganza
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/48bc4931-d642-4153-a46a-8f13c38d0544.mp4
+#EXTINF:-1,Atrevida – La pasión no tiene reglas
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a6e7c2af-089a-4fb6-ad6a-f6557ca9fbce.mp4
+#EXTINF:-1,Estación Zombie 2: Península
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8862d0d6-2119-4374-aa58-5586d5de287d.mp4
+#EXTINF:-1,Capitán Sky y El Mundo del Mañana (2004)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1dd38b3d-9829-4c90-aa3b-cdf9904a1b13.mp4
+#EXTINF:-1,HLM Pussy
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/039a7300-7e06-417f-887f-4e6f714b49ee.mp4
+#EXTINF:-1,Nuestro Secretito
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3838d7ef-8dd1-4611-9f38-66a1bb23cc3e.mp4
+#EXTINF:-1,No miren arriba
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/806e04e6-570c-4767-90bf-712f1b5cf2f1.mp4
+#EXTINF:-1,Dragon Ball Z: La Batalla de los Dioses
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/17174346-d2d6-4102-a629-4bda99e844f2.mp4
+#EXTINF:-1,Dragon Ball Z: La Resurrección de Freezer
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2c1d0357-6c45-4ca7-8f70-0d3bdedfab2f.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0f12f01d-3768-4691-95e3-e2e25db649ee.mp4
+#EXTINF:-1,Dragon Ball Super: Super Hero
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/53b52ea2-fc54-4888-9879-9f65f8db2b57.mp4
+#EXTINF:-1,Dragon Ball Z: ¡Devuélvanme a mi Gohan!
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b7bbf474-75af-4a6c-bfcc-b0f521d1eb9b.mp4
+#EXTINF:-1,Dragon Ball Z: El Ataque Del Dragón
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bc6fb8da-5253-4aab-af76-01d7e401a97c.mp4
+#EXTINF:-1,Dragon Ball Z: El Combate Final
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2bc42060-8ab3-46e7-b53c-5987869f74dd.mp4
+#EXTINF:-1,Dragon Ball Z: El Hombre más Fuerte de este Mundo
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/20cf88e4-d1a0-42d8-a9a9-e694b4850632.mp4
+#EXTINF:-1,Dragon Ball Z: La Batalla de Freezer contra el Padre de Goku
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9dd9c1bd-ee4c-4070-aff7-27529a2f83ab.mp4
+#EXTINF:-1,Dragon Ball Z: El Poder Invencible
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/efff8bd3-e4d3-4b70-acf1-06b25faa2adf.mp4
+#EXTINF:-1,Dragon Ball Z: El Regreso del Guerrero Legendario
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f7f4d2a1-a805-4aaa-974b-271926513bf4.mp4
+#EXTINF:-1,Dragon Ball Z: Los dos Guerreros del Futuro Gohan y Trunks
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d1686cfd-0e2a-4a75-b9bf-05d7724830ee.mp4
+#EXTINF:-1,Dragon Ball Z: Goku es un Super Saiyajin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ca62d7e3-b5a1-42a5-8d37-a4173e2efddd.mp4
+#EXTINF:-1,Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ca079882-3c79-4ad1-92a8-957362e23f88.mp4
+#EXTINF:-1,Dragon Ball Z: La Fusión de Goku y Vegeta
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c2ff7ad-b746-4162-af29-a7cfd7629478.mp4
+#EXTINF:-1,Dragon Ball Z: La Galaxia Corre Peligro
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6fa95b1a-54d5-43e9-9be1-1bf4a75b302e.mp4
+#EXTINF:-1,Dragon Ball Z: La Pelea de los Tres Saiyajin
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f6ac7fd8-d8b4-4614-a2ff-933ba97e69fb.mp4
+#EXTINF:-1,Dragon Ball Z: Los Rivales más Poderosos
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/780d744f-66b3-4485-a19e-f46d72c672e0.mp4
+#EXTINF:-1,Dragon Ball: Una Aventura Mística
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3d022016-65c7-4d19-83bb-7814d2e827c0.mp4
+#EXTINF:-1,Dragon Ball: El camino hacia el poder
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/ee02c2fd-7db9-49d4-a2f1-ab62f697813c.mp4
+#EXTINF:-1,Dragon Ball: La leyenda de Shen Long
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/04eecd94-6ba0-473f-b39f-499b5fab817c.mp4
+#EXTINF:-1,Dragon Ball: La princesa durmiente del castillo embrujado
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2afd09fc-bb42-46fe-892a-e0635729d747.mp4
+#EXTINF:-1,Dragon Ball Z: El plan para erradicar a los Saiyajins (remake)
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/769f295c-fde4-47e2-8b72-4ffbc2aa1dd9.mp4
+#EXTINF:-1,Cómo Entrenar A Tu Dragón
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0082ffa4-8590-4881-8597-17693b9fde47.mp4
+#EXTINF:-1,Cómo Entrenar A Tu Dragón 3
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3ce8f7ca-181a-4b3a-a101-e313a9d68d4e.mp4
+#EXTINF:-1,Cómo entrenar a tu dragón 2
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fcc09c31-7081-448c-af75-2b8fb56f0854.mp4
+#EXTINF:-1,Esposas calientes prueban cosas diferentes
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d68f7514-f14c-41cb-82d7-caa3e65bd262.mp4
+#EXTINF:-1,Incendios
+http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/20a90936-57e5-4f2d-bc78-68e55fcd47a6.mp4
 #EXTINF:-1, [REC]⁴: Apocalipsis
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94017d96-e578-4196-b6c3-be1449c2d901.mkv
 #EXTINF:-1, [REC]³: Génesis
@@ -235,10 +361,6 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7c40f6c-327a-46b8-83e6-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0a69cd0c-48f8-48d5-9f07-76656131b3cc.mkv
 #EXTINF:-1,Nirvana - Unplugged in New York
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/eed7beae-1f5d-48be-80f6-a8d542bc6a23.mp4
-#EXTINF:-1,Perdidos en el Pacífico
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/19d8f12e-04fe-40a9-b9ab-50615d8cec71.mp4
-#EXTINF:-1,Justice Society: World War II
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/14a54241-10f6-4038-8652-481d8a16ec96.mp4
 #EXTINF:-1,Gurren Lagann: Las luces en el cielo son estrellas
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/8744caab-e891-4051-8f1a-42998024b38c.mp4
 #EXTINF:-1,El castillo en el cielo
@@ -275,26 +397,18 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a30fbc96-cda9-46ff-a7ba-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a7caef40-6909-4844-ae62-f02636e57470.mp4
 #EXTINF:-1,Infectados
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0c546d28-adf8-4820-b5db-0844fa0d85d8.mp4
-#EXTINF:-1,Zombie Tidal Wave
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e9987fb7-a2b4-4e04-a1b9-9c415e50d6bd.mp4
 #EXTINF:-1,El faro
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/17229e0c-600c-4140-b50e-791bbfd10d10.mp4
 #EXTINF:-1,El regreso de los muertos vivientes
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fe527740-f7f3-4cbc-bdd2-f768ecaff4fe.mp4
 #EXTINF:-1,La liga de los hombres extraordinarios
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/59b10dbd-7849-4262-bd1f-32f455ba9c93.mp4
-#EXTINF:-1,Nekrotronic
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0f43873f-e86c-4feb-90ed-11378ee09840.mp4
 #EXTINF:-1,Increíble pero falso
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/13c771d0-f390-4eb6-b28b-437b4b4a0c8a.mp4
 #EXTINF:-1,Los nuevos mutantes
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1cff068f-c14c-4f78-85c0-c1c329fcd9a0.mp4
-#EXTINF:-1,Jacuzzi al pasado 2
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/198faf64-bad3-4bd4-81eb-e6210b97ed63.mp4
 #EXTINF:-1,Autómata
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f10a6c13-9383-4f2c-9818-82cfcf82a698.mp4
-#EXTINF:-1,Alita: Ángel de combate
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/96992371-5bcc-48d5-9836-c8003afe07dc.mp4
 #EXTINF:-1,El jardín secreto
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/55f32cf7-5801-4783-abe2-2e47164cb720.mp4
 #EXTINF:-1,God of War
@@ -331,8 +445,6 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/55194803-6d92-4aef-8661-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f5e9e91e-72da-4d78-b494-a0cfa6da0212.mkv
 #EXTINF:-1,Space Jam: Nuevas Leyendas
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a47ef933-d8e5-49f9-9526-7652e2182310.mkv
-#EXTINF:-1,The Evil Twin
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/7655e9f6-a72a-4402-9c27-8b5082094bfa.mkv
 #EXTINF:-1,Lazos perversos
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d7a1a5f4-df99-4355-a569-770f413b942f.mkv
 #EXTINF:-1,Leyendas de pasión
@@ -353,16 +465,12 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a80bb84c-d93d-4566-85db-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2cfcfe65-1241-4a5f-9fa8-aeecb7761974.mp4
 #EXTINF:-1,El jardín del diablo
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/9ae6b370-6d95-47e1-8acf-6cf1b7693cfa.mp4
-#EXTINF:-1,El hombre con rayos X en los ojos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5e8d3488-9c3a-41fe-8453-17cd38ed9c7e.mp4
 #EXTINF:-1,El bruto
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1568655b-09cd-4f76-8b8b-6142f343f1ea.mp4
 #EXTINF:-1,A Dirty Carnival
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/22b75ca2-e779-49e1-98fe-42ba9c598560.mp4
 #EXTINF:-1,El escuadrón del diablo
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/fbba26d2-c51e-4833-8eb3-4857e03536fc.mp4
-#EXTINF:-1,27: El club de los Malditos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f835c942-e8aa-4604-9e94-72041837f69b.mp4
 #EXTINF:-1,Random Acts of Violence
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d590edae-d9b6-4b49-ba12-3ff459f8869a.mp4
 #EXTINF:-1,La vieja guardia
@@ -405,8 +513,6 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/394c23d7-6d74-4938-bcd0-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/68be76e0-278d-4f6d-a2ba-887e65bc9a34.mp4
 #EXTINF:-1,Amor, sexo y 30 velitas
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5ba74d37-f782-4e49-a030-134ebd2bdcd0.mp4
-#EXTINF:-1,Secretos del deporte: El salón de la infamia
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/93abff12-c2db-40e7-9f9e-bd6a61851db0.mp4
 #EXTINF:-1,Freestyle
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0abedc3e-691d-4497-88f0-dfdb47212260.mp4
 #EXTINF:-1,El Conde
@@ -425,14 +531,10 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/5b96c1a7-fe91-46a7-a042-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/af97a80f-794b-4974-91cd-50865f203dde.mp4
 #EXTINF:-1,Concrete Utopia
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/77c5a90b-c011-472d-8961-42cb18dd4f98.mp4
-#EXTINF:-1,Batalla Aérea
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f374e9bc-ab68-4724-bb3a-5b2e0737521a.mp4
 #EXTINF:-1,Epic Movie
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1eb3369f-aba3-4103-b13c-d50a5a137d36.mp4
 #EXTINF:-1,Disaster Movie
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4d751a0c-dab4-48e4-88e0-d83e9b9791b7.mp4
-#EXTINF:-1,The Walking Deceased
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/4ebe61d0-98c1-4aac-9a30-8dd16a0df808.mp4
 #EXTINF:-1,Los muertos del hambre
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f3912ac7-9b22-483c-8699-8f61018abf2d.mp4
 #EXTINF:-1,50 sombras muy oscuras
@@ -455,8 +557,6 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3c0361d3-6714-4940-8af1-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e48f11fc-1dfe-4ff9-b851-6b3be1cd3389.mp4
 #EXTINF:-1,Reposeída
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6de1b74a-1ba1-4ba8-82da-1319eec7ce5d.mp4
-#EXTINF:-1,Movie 43
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a9289252-2716-4fd7-bacf-f30644781dfc.mp4
 #EXTINF:-1,Date Movie
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/268e52ed-def7-46e5-b7e0-dc4a95dff805.mp4
 #EXTINF:-1,Blancanieves y la leyenda del cazador
@@ -501,42 +601,22 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f1035cb-6ebe-4635-9a3c-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/1546b4ac-cf96-424d-b743-dd2420323ff0.mp4
 #EXTINF:-1,Ghost in the Shell
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/d80ff5f4-308f-4cdf-b529-00137a017e59.mp4
-#EXTINF:-1,Akira
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/f8e5fc0c-b922-43c9-a8a9-ca1f4856d3a4.mp4
-#EXTINF:-1,Buscando un amigo para el fin del mundo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/41904b07-6f8e-4533-b050-b53dcd7798df.mp4
-#EXTINF:-1,Zombies Party
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/989d898d-e403-40cb-9715-96c01a92d517.mp4
 #EXTINF:-1,La casa de los espíritus
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/94e11995-853b-4b57-ba96-82049275c5c8.mp4
 #EXTINF:-1,Amor a medianoche
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/13ccc038-d068-4b07-8848-8183574959ba.mp4
 #EXTINF:-1,Mundo acuatico
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6dc056ad-2003-41aa-bc2a-bb39aa7d5c66.mp4
-#EXTINF:-1,Total Recall
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/a521f9f8-ff16-493e-814c-1a1906c04eb4.mp4
 #EXTINF:-1,La niñera
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c50f253c-1b63-488f-8960-c0cec14b641b.mp4
-#EXTINF:-1,Bienvenidos al fin del mundo
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/0cfbdb39-fec9-45aa-8a0b-6fa20435c46b.mp4
-#EXTINF:-1,Amores Caníbales
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6ed4b1b5-a532-4ee0-8d86-295409543a05.mp4
 #EXTINF:-1,Synchronicity
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6c5e031d-ef87-408b-8366-83a98e798e46.mp4
 #EXTINF:-1,Black Box
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/46e46fab-cae8-4f4c-b6f5-c5e42de1938b.mp4
-#EXTINF:-1,De amor y monstruos
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/6b26e125-5b5e-47f6-8b51-c49c9afb6e65.mp4
 #EXTINF:-1,Apocalipsis en Stonehenge
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/e180037b-54bb-4ddf-bb40-b5abc02dbaf7.mp4
 #EXTINF:-1,Mentes poderosas
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/962d4411-84a2-4558-8622-9b3e30f62449.mp4
-#EXTINF:-1,Nekrotronic
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/63ce6c60-0b6e-4699-b595-82b2f3ffca2f.mp4
-#EXTINF:-1,Alejandro Magno
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/2b450659-c578-4900-bc15-412d130a2c5c.mp4
-#EXTINF:-1,Warcraft: El origen
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/c7f1ccae-c484-42d5-a5e8-2bbccb7fd76a.mp4
 #EXTINF:-1,Caballeros, princesas y otras bestias
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/45901bd5-8895-4c09-91ba-4ea84d3b1e0b.mp4
 #EXTINF:-1,Desnúdate, rebélate
@@ -557,14 +637,8 @@ http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/21b89c70-6340-4da3-9db1-
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/3f8e7fbd-5211-486c-8e91-4b738e76d083.mp4
 #EXTINF:-1,¿Qué pasó el 11 de Septiembre?
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/79f1e8bd-c2fe-473b-a151-d82f45f2c8e7.mp4
-#EXTINF:-1,Ciberinfierno: La investigación que destapó el horror
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/933a07d3-e9ad-4ef7-a235-2a7fc5570a41.mp4
 #EXTINF:-1,Contagio en alta mar
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/bf4a780b-05ec-4612-a23b-c27ee2395392.mkv
-#EXTINF:-1,Secretos del deporte: El ladrón de señales
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/b20fb71b-54d3-4268-a40f-96c1a9416a30.mp4
-#EXTINF:-1,Sin límites (Los casos del Departamento Q)
-http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/048e5c5c-1395-4d2b-8d00-7541a25d4bf8.mp4
 #EXTINF:-1,Cómo robar un banco
 http://daleplay.club:8080/movie/gjaramillo/Gjaramillo78/409c70e5-b2bd-4e39-87c6-77d89d622598.mp4
 #EXTINF:-1,Mas allá del deporte
