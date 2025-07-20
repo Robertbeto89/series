@@ -3903,7 +3903,7 @@ https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1, SEX MEX 
-https://nxt.plus:8443/jesus01/jesus01/227254
+http://odenfull.co:2086/NATALY4334/20TORRE50s/206009
 #EXTINF:-1, A GIRL KNOWS
 http://cord-cutter.net:8080/Rme2Fg/183926/159953
 #EXTINF:-1, ADULT TIME
@@ -4981,3 +4981,4 @@ https://nxt.plus:8443/jesus01/jesus01/227252
 https://nxt.plus:8443/jesus01/jesus01/227437
 #EXTINF:-1, Porn Classic HD
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1, Sexmex
